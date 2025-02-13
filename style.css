@@ -1,0 +1,1280 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body
+{
+    background: rgb(15, 15, 15);
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+.launch
+{       
+    background: radial-gradient(circle, rgb(17, 17, 17) 40%, rgba(0,0,0,1) 80%);
+    position: absolute;
+    overflow: hidden;
+    color: rgb(202, 202, 202);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    transition: opacity 0.5s; 
+    z-index: 1000;    
+    #launch-logo    
+    {
+        position: absolute;        
+        width: 200px;                       
+        animation: logoAnim 3.5s forwards;
+    }
+    .launch-text
+    {         
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;        
+        #title-logo
+        {          
+            width: 180px;
+            animation: titleFadeIn 2.5s forwards;                        
+        }
+        h1
+        {
+            font-size: 2em;
+            font-weight: 400;
+            animation: textFadeIn 2s forwards; 
+            animation-delay: 1.5s;
+            opacity: 0;
+        }
+        .discover
+        {
+            margin: 25px 0;
+            display: flex;
+            gap: 25px;
+            animation: textFadeIn 2s forwards;
+            animation-delay: 2s;
+            opacity: 0;
+            .discover-slide
+            {
+                height: 400px;
+                width: 350px;
+                padding: 20px;
+                border: 1px solid white;
+                border-radius: 10px;
+                background: rgb(29,54,92);
+                background: linear-gradient(150deg, rgba(15,35,66,1) 4%, rgba(21,23,23,1) 87%);
+                display: flex;
+                flex-direction: column;  
+                justify-content: space-between;              
+                align-items: center;
+                gap: 20px;
+                transition: 0.5s;
+                /* cursor: pointer; */
+                &:hover
+                {
+                    transform: translateY(-20px);
+                    i
+                    {
+                        transform: scale(1.2);
+                    }
+                }
+                h3
+                {
+                    text-align: center;
+                    color: #e50914; 
+                    font-size: 1.4em;  
+                    font-weight: 400;                
+                }
+                p
+                {
+                    font-weight: 400;
+                }
+                i
+                {
+                    font-size: 3em;
+                    color: #b82b32;
+                    transition: 0.5s;
+                }
+            }
+        }
+        #start
+        {            
+            opacity: 0;
+            animation: textFadeIn 2s forwards;
+            animation-delay: 1s;             
+            padding: 15px 5px 15px 10px;            
+            border: none;
+            border-radius: 5px;
+            background-color: rgb(179, 34, 34);
+            color: rgb(184, 184, 184);
+            text-transform: uppercase;
+            letter-spacing: 2px;  
+            cursor: pointer;     
+            transition: 0.3s;    
+            font-size: 1em;  
+            display: flex;
+            align-items: center;
+            justify-content: center;            
+            i
+            {
+                font-size: 1.2em;
+                margin-left: 5px;
+                transition: 0.3s;
+                transform: translateX(-10px);
+            }  
+            i:first-of-type
+            {                
+                opacity: 0;
+                transition: 0.3s;
+            }    
+            &:hover
+            {
+                transform: scale(1.05);  
+                color: rgb(230, 230, 230);  
+                i
+                {
+                    transform: translateX(5px);
+                }
+                i:first-of-type
+                {                    
+                    opacity: 1;
+                }                
+            }  
+        }        
+    }
+    .disclaimer
+    {   
+        position: absolute;
+        bottom: 50px;
+        margin-top: 35px;            
+        height: 25px;
+        overflow: hidden;
+        transition: 0.5s ease;
+        color: rgb(150, 150, 150);
+        &:hover
+        {
+            height: 250px;
+            #disclaimer-title 
+            {
+                opacity: 0;
+                transition: 0.3s;
+            }
+        }
+        #disclaimer-title            
+        {            
+            text-align: center;
+            font-size: 0.9em; 
+            font-weight: 400;
+            text-decoration: underline;
+            width: 110px;  
+            padding: 2px 1px; 
+            margin: 0 auto;                         
+        } 
+        i
+        {
+            text-align: center;
+        }           
+        #disclaimer-text
+        {                
+            padding: 8px; 
+            border-radius:5px ;              
+            width: 700px;                
+            font-size: 0.8em; 
+            text-align: justify; 
+            background-color: #141414; 
+            z-index: 5;  
+            border: 1px solid rgb(41, 41, 41);
+        }             
+    }  
+}
+/* header */
+header
+{        
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    /* logo */
+    #logo    
+    {
+        display: flex;
+        align-items: center;
+        width: 200px;
+        img
+        {
+            width: 50px;
+            height: 50px;
+        } 
+        /* titre */
+        h1
+        {
+            color: rgb(238, 29, 29);
+        }       
+    }    
+    /* menu */
+    nav
+    {         
+        display: flex;         
+        z-index: 10;    
+        a
+        {
+            color: rgb(201, 201, 201);
+            text-decoration: none;  
+            padding: 10px 20px; 
+            transition: transform 0.3s ease;    
+            transform-origin: center center; 
+            font-size: 1em;     
+            &:hover
+            {
+                transform: scale(1.15);
+                color: white;                
+            }                  
+        }
+    }
+    /* champ de recherche */
+    form 
+    {        
+        z-index: 10;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        width: 200px;
+        input[type="text"] 
+        {
+            width: 150px;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 12px;
+        }  
+        button 
+        {
+            background-color: #000;
+            color: #fff;
+            border: none;
+            padding: 8px;
+            margin-left: 10px;
+            cursor: pointer;
+            font-size: 15px;
+            border-radius: 4px;
+            &:hover 
+            {
+                background-color: #444;
+            }         
+        }  
+    } 
+    #results
+    {
+        display: none;
+        grid-template-columns: repeat(8, 1fr);
+        grid-auto-rows: 250px;
+        align-items: center;
+        justify-content: center;
+        position: fixed; /* Pour occuper tout l'écran */
+        top: 60px;
+        left: 0;
+        width: 100vw; /* Pleine largeur */
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.9); /* Fond noir semi-transparent */
+        color: white;
+        overflow-y: auto; /* Activer le défilement si nécessaire */
+        z-index: 1000; /* Toujours au-dessus du contenu */
+        padding: 20px;
+        box-sizing: border-box;
+        gap: 10px;
+        padding-bottom: 100px;
+        h1
+        {
+            color: white;
+        }
+        .resultBx
+        {            
+            height: 250px; 
+            overflow: hidden;
+            border-radius: 10px;
+            position: relative;
+            border: 1px solid rgb(46, 46, 46);
+            text-decoration: none;
+            transition: 0.3s;
+            &:hover
+            {
+                border: 1px solid rgb(207, 207, 207);
+                .imgMovie
+                {
+                    transform: scale(1.05);               
+                }
+            }
+            .imgMovie
+            {
+                width: 100%;
+                height: 70%;
+                object-fit: cover;  
+                transition: 0.3s;                          
+            }
+            h3
+            {    
+                padding: 3px;            
+                color: white;
+                font-size: 1em;
+                font-weight: 400;
+                text-align: center;
+            }
+        }
+    }    
+    #scrollToTop {
+        position: fixed;
+        top: 5px;
+        right: 20px;
+        display: none; /* Caché par défaut */
+        background-color: transparent;
+        color: #fff;
+        border: none;
+        font-size: 35px;        
+        cursor: pointer;
+        z-index: 1000;
+        opacity: 0.3;
+        transition: opacity 0.3s ease-in-out;
+    }
+    
+    #scrollToTop:hover {
+        opacity: 1;
+    }    
+}
+/* section principale */
+main
+{
+    position: relative;    
+    transition: opacity 0.5s;  
+    /*Carousel*/
+    #carousel    
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100vh;
+        position: relative;
+        top: 60px;
+        /*Elément carousel*/
+        .mySlides       
+        {
+            opacity: 0;
+            transition: opacity 1s, transform 1s;
+            position: absolute;
+            top: 0;            
+            width: 1500px;
+            display: flex;
+            justify-content: center;
+            transition: 0.5s ease;
+            /*le titre bouge et zoom au survol*/
+            &:hover .logo-carousel
+            {                
+                bottom: 80px;
+                left: 125px;
+                transform: scale(1.3);
+            }
+            /*les infos apparaissent au survol*/
+            &:hover .info-carousel
+            {
+                opacity: 1;
+                bottom: 40px;                
+            }   
+            /*points sous l'image*/               
+            &.active
+            {
+                /*zoom léger quand actif*/
+                opacity: 1;
+                transform: scale(1);
+                z-index: 2; /* Position en avant */
+            } 
+            &.prev, &.next 
+            {
+                opacity: 0.5; /* Pour semi-transparence */
+                /* width: 1500px; Taille plus petite pour les côtés */
+                z-index: 1;
+                transition: transform 1s ease, opacity 1s ease;
+            }
+            &.prev 
+            {
+                transform: translateX(-78%) scale(1); /* Slide à gauche */
+            }
+            &.next 
+            {
+                transform: translateX(78%) scale(1); /* Slide à droite */
+            } 
+            /* titre film            */
+            .logo-carousel
+            {
+                position: absolute;
+                opacity: 0;
+                width: 200px;
+                bottom: 50px;
+                left: 80px;
+                z-index: 5;
+                transition: 0.5s ease;                
+            }
+            /* infos film */
+            .info-carousel
+            {
+                position: absolute;                
+                color: white;   
+                text-shadow: 1px 1px 2px rgb(0, 0, 0);   
+                z-index: 2;
+                opacity: 0;                
+                transition: 0.5s ease;
+                left: 145px;
+                bottom: 0px;
+                font-size: 0.8em;
+                font-weight: 300;                
+            }
+            /*cadre image film*/
+            .imgBx
+            {          
+                position: relative;  
+                height: 750px;
+                /* width: 1900px; */
+                overflow: hidden;
+                border: 5px solid rgb(20, 20, 20);                
+                &:hover
+                {
+                    img
+                    {
+                        transform: scale(1.02);
+                    }
+                }          
+                /* dimensions de l'image */
+                img
+                {                
+                    object-fit: cover;                
+                    width: 100%; 
+                    transition: 0.5s ease;               
+                }                        
+            }            
+        }
+        /* boutons précédent et suivant du carousel */
+        .prevBtn, .nextBtn 
+        {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-200%);
+            width: auto;
+            margin-top: -22px;
+            padding: 16px;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            transition: 0.6s ease;
+            border-radius: 0 3px 3px 0;
+            user-select: none;
+            z-index: 12;
+        }
+        .prevBtn 
+        {
+            left: 5px;
+            border-radius: 5px;
+        }
+        .nextBtn 
+        {
+            right: 10px;
+            border-radius: 5px;
+        }   
+        .prevBtn:hover, .nextBtn:hover 
+        {
+            background-color: rgba(0,0,0,0.7);
+        }   
+        /* points sous l'image */
+        .dots 
+        {
+            position: absolute;    
+            bottom: 220px; /* Ajuste selon ton layout */
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 10;
+            display: flex; 
+            .dot 
+            {
+                height: 10px;
+                width: 10px;
+                margin: 0 4px;
+                background-color: #ffffff;
+                border-radius: 50%;
+                display: inline-block;
+                cursor: pointer;
+                transition: background-color 0.6s ease;
+            }    
+            .dot.active, .dot:hover 
+            {
+            background-color: #717171;
+            }        
+        }  
+        /* categories */
+        #categories
+        {
+            position: absolute;
+            display: flex;
+            bottom: 120px;
+            gap: 20px;
+            .category
+            {
+                display: flex;
+                width: 160px;                
+                height: 60px;
+                overflow: hidden;
+                position: relative;
+                border: 2px solid rgb(46, 46, 46);
+                padding: 5px;
+                border-radius: 10px;
+                transition: 0.5s;
+                &:hover
+                {
+                    border: 2px solid rgb(196, 196, 196);
+                    background-color: rgb(30, 30, 30);
+                    img
+                    {
+                        transform: scale(1.1);
+                    }
+                }
+                img
+                {
+                    height: 100%;                      
+                    margin: 0 auto;
+                    object-fit: cover;
+                    transition: 0.5s;            
+                }
+            }
+        }      
+    }     
+
+    /* liste de films */
+    #movies-list
+    {
+        /* margin-top: 60px ; */
+        position: relative;
+        overflow: hidden;
+        width: 100%;       
+        /* section de film   */
+        #starwars
+        {
+            background: url(./img/bg/starwarsSection.jpg);
+            background-size: cover;   
+            .section-title
+            {                
+                flex-direction: column;
+                color: rgb(224, 224, 224);                 
+                span
+                {
+                    color: rgb(229, 177, 58);
+                }                
+            }   
+           
+        }
+        #harrypotter
+        {
+            background: url(./img/bg/harrypotterSecction.jpg);
+            background-size: cover;
+        }
+        #marvel
+        {
+            background: url(./img/bg/marvelSection.jpg);
+            background-size: cover;
+            .section-title
+            {                
+                flex-direction: column;
+                color: rgb(224, 224, 224);                 
+                img
+                {
+                    height: 50px;
+                }                
+            }            
+        }
+        .film-section
+        {      
+            position: relative;       
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            .section-title
+            {                
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                position: absolute;
+                top: 30px;
+                left: 50%;
+                transform: translateX(-50%);                           
+                span
+                {                    
+                    font-size: 1.2em;  
+                    font-weight: 300;                                     
+                } 
+                .section-logo 
+                {
+                    /* padding-bottom: 5px;  */
+                    max-height: 80px;                
+                    max-width: 200px; /* Ajuste la largeur à la taille souhaitée */    
+                    margin-bottom: 15px;                
+                }
+            }                
+            /* liste de films en ligne*/
+            /* section star wars */            
+            #starwars-row 
+            {       
+                width: 1400px;   
+                              
+                .movies
+                {                                        
+                    height: 250px;
+                    width: 380px;
+                    margin-bottom: 15px;                      
+                }           
+            }       
+            #harrypotter-row 
+            {            
+                gap: 50px;        
+                .movies
+                {                                        
+                    height: 250px;
+                    width: 350px;
+                    margin-bottom: 15px;                    
+                }          
+            }      
+            #marvel-row 
+            {                   
+                .movies
+                {                                        
+                    height: 250px;
+                    width: 370px;
+                    margin-bottom: 15px;                    
+                }              
+            }                                
+            /**/           
+            .film-row
+            {
+                display: flex; 
+                justify-content: center; 
+                align-items: center;  
+                flex-wrap: wrap;  
+                position: relative; 
+                padding: 0 20px;    
+                gap: 40px;                                       
+                transition: transform 0.3s ease;             
+                /* vignette film */
+                .movies
+                {                                                
+                    position: relative;                    
+                    border-radius: 10px;            
+                    text-decoration: none;
+                    background: rgba(0, 0, 0, 0.5);     
+                    backdrop-filter: blur(5px); 
+                    transition: transform 0.5s;
+                    transition: 0.3s;                                         
+                    &:hover
+                    {
+                        transform: translateX(15px) translateY(15px);                       
+                        .imgMovie
+                        {
+                            opacity: 0;
+                            transition: 0.5s;                            
+                        }
+                        .logoBx
+                        {
+                            width: 50%;
+                            top: -10%;
+                            right: -5%;
+                            transform: none;   
+                            background: transparent;                            
+                        }
+                        .video
+                        {
+                            transform: translateX(-25px) translateY(-15px);                            
+                        }
+                        .textBx
+                        {
+                            transform: translateX(70%) ;
+                        }
+                        .synopsis
+                        {
+                            transform: translateY(125%);                            
+                        }
+                        .video,
+                        .textBx,
+                        .synopsis
+                        {
+                            transition: opacity 1s, transform 0.7s;
+                            opacity: 1;                           
+                        }                        
+                    }                 
+                    .video 
+                    {
+                        position: absolute;
+                        top: 0;                        
+                        max-width: 70%;
+                        opacity: 0;  
+                        height: 60%; 
+                        border-radius: 10px;
+                        background: rgba(0, 0, 0, 0.9);
+                        /* transition: 1s;                                */
+                    }                         
+                    .imgMovie
+                    {
+                        position: absolute;                        
+                        left: 0;
+                        width: 100%;
+                        height: 100%;
+                        object-fit: cover;
+                        transition: transform 0.5s ease; 
+                        border-radius: 10px;                                                                            
+                    }
+                    /* titre vignette */
+                    .logoBx
+                    {
+                        position: absolute;                
+                        width: 90%;
+                        opacity: 1; 
+                        top: 50%; 
+                        transform: translateY(-50%) translateX(50%);
+                        right: 50%;                   
+                        height: 30%;
+                        transition: 0.5s ease;                                                
+                        .imgLogoBx
+                        {                      
+                            padding: 3px;      
+                            position: absolute; 
+                            top: 50%;  
+                            transform: translateY(-50%);                                                                      
+                            transition: 0.5s ease;                                  
+                            width: 100%;                                                 
+                        }                
+                    }
+                    .textBx
+                    {                        
+                        position: absolute;
+                        right: 30%;
+                        opacity: 0;
+                        top: 30%;
+                        height: 30%;
+                        width: 40%;
+                        padding: 5px;
+                        text-align: end;
+                        color: rgb(163, 163, 163);                                                
+                        h5
+                        {
+                            font-weight: 300;
+                            .fa
+                            {
+                                color: gold;
+                                margin-right: 3px;
+                            }
+                        }                  
+                    }
+                    .synopsis
+                    {         
+                        position: absolute;               
+                        height: 40%;
+                        bottom: 50%;
+                        transform: translateY(50%);                        
+                        opacity: 0;
+                        width: 100%; 
+                        padding: 0 15px; 
+                        color: rgb(173, 173, 173);
+                        text-decoration: none; 
+                        font-weight: 300;
+                        font-size: 0.8em;       
+                        p
+                        {
+                            position: absolute;
+                            top: 50%;
+                            transform: translateY(-50%);
+                        }                                                                     
+                    }            
+                }
+            }            
+        }       
+    }     
+}  
+
+/* animation du titre du film sur le carousel */
+.animate
+{
+    animation: logoFadeIn 0.75s forwards;
+    animation-delay: 0.5s;
+}
+@keyframes logoFadeIn 
+{     
+    from
+    {
+        opacity: 0;
+        bottom: 0;
+    }
+    to
+    {
+        opacity: 1;
+        bottom: 70px;
+    }
+}
+/*Footer*/
+footer 
+{
+    border-top: 1px solid #333333;
+    background-color: #141414; /* Fond sombre pour un effet Netflix */
+    color: #d8d8d8; /* Texte blanc pour le contraste */
+    padding: 5px 0;
+    font-size: 13px;
+    .footer-top
+    {
+        text-align: center;
+        border-bottom: 1px solid #333333;
+        padding-bottom: 5px;
+        a
+        {
+            text-decoration: none;
+            color: #d8d8d8;
+            &:hover
+            {
+                i
+                {
+                    transform: scale(1.2);
+                }
+            }
+            i
+            {
+                margin: 0 5px;
+                transition: 0.3s;
+            }
+        }        
+    }
+    .footer-content 
+    {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 0 20px;
+        font-weight: 300;
+        .footer-section 
+        {
+            flex: 1; /* Largeur flexible */
+            margin: 5px;
+            h3 
+            {
+                margin-bottom: 5px;
+                font-size: 16px;
+                color: #e50914; /* Rouge Netflix */
+                text-align: center;
+            }
+            ul 
+            {
+                list-style: none;
+                padding: 0;
+                li 
+                {
+                    margin-bottom: 10px;
+                    a 
+                    {
+                        color: #ffffff;
+                        text-decoration: none;
+                        transition: color 0.3s;
+                        &:hover 
+                        {
+                            color: #e50914; /* Rouge Netflix au survol */
+                        }
+                    }
+                }
+            }
+            
+        }
+        .social
+        {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            a 
+            {               
+                text-align: center; 
+                width: 100px;                
+                margin-bottom: 5px;
+                color: #d8d8d8;
+                text-decoration: none;
+                transition: 0.3s;
+                &:hover
+                {
+                    transform: scale(1.1);
+                }
+                i
+                {
+                    margin-right: 5px;
+                    color: #e50914;
+                }
+            }
+        }        
+    }
+    .footer-bottom 
+    {
+        text-align: center;        
+        border-top: 1px solid #333333;
+        padding-top: 5px;
+        p 
+        {
+            margin: 0;
+        }
+    }
+}
+
+/*Animations*/
+
+@keyframes titleFadeIn
+{
+    0%
+    {        
+        transform: scale(2) translateY(100px);        
+    }
+    50%
+    {
+        transform: scale(2) translateY(100px);
+    }    
+    100%
+    {        
+        opacity: 1;
+    }    
+}
+@keyframes textFadeIn
+{
+    0%
+    {        
+        opacity: 0;
+    }    
+    100%
+    {       
+        opacity: 1;
+    }    
+}
+
+/* media queries */
+
+@media screen and (min-width: 2200px) 
+{
+    #main-content
+    {
+        #carousel
+        {
+            .mySlides
+            {    
+                min-width: 2000px; 
+                .imgBx
+                {
+                    height: 1100px;
+                    img
+                    {
+                        height: 100%;
+                    }
+                }   
+            }    
+        }
+        #movies-list
+        {
+            #starwars
+            {
+                #starwars-row
+                {
+                    .movies
+                    {
+                        width: 600px;
+                        height: 400px;
+                    }
+                    .movies:nth-child(1)::before,
+                    .movies:nth-child(4)::before  
+                    {                    
+                    width: 1870px;                                                   
+                    }                 
+                }
+            }
+            #harrypotter
+            {
+                #harrypotter-row
+                {
+                    .movies
+                    {
+                        width: 500px;
+                        height: 350px;
+                    }
+                }
+            }
+            #marvel
+            {
+                #marvel-row
+                {
+                    .movies
+                    {
+                        width: 550px;
+                        height: 380px;
+                    }
+                }
+            }
+        }
+    }   
+}
+@media screen and (max-width: 1500px) 
+{
+    #main-content
+    {
+        #carousel
+        {
+            .mySlides
+            {    
+                width: 1200px; 
+                .imgBx
+                {
+                    height: 700px;
+                    img
+                    {
+                        height: 100%;
+                    }
+                }   
+            }    
+        }
+        #movies-list
+        {
+            #starwars
+            {
+                #starwars-row
+                {
+                    .movies
+                    {
+                        width: 380px;
+                        height: 290px;
+                    }
+                    .movies:nth-child(1)::before,
+                    .movies:nth-child(4)::before  
+                    {                    
+                    width: 1210px;                                                   
+                    }  
+                }
+            }
+            #harrypotter
+            {
+                #harrypotter-row
+                {
+                    .movies
+                    {
+                        width: 310px;
+                        height: 340px;
+                        .synopsis
+                        {
+                            font-size: 0.7em;
+                            padding: 0 10px;
+                        }
+                    }
+                }
+            }
+            #marvel
+            {
+                #marvel-row
+                {
+                    .movies
+                    {
+                        width: 500px;
+                        height: 250px;
+                    }
+                }
+            }
+        }
+    }   
+}
+@media screen and (max-width: 1200px) 
+{
+    #main-content
+    {
+        #carousel
+        {
+            .mySlides
+            {    
+                width: 900px; 
+                .imgBx
+                {
+                    height: 650px;
+                    img
+                    {
+                        height: 100%;
+                    }
+                }   
+            }    
+        }
+        #movies-list
+        {
+            #starwars
+            {
+                #starwars-row
+                {
+                    .movies
+                    {
+                        width: 300px;
+                        height: 300px;
+                        .synopsis
+                        {
+                            font-size: 0.7em;
+                            padding: 0 10px;
+                        }
+                    }
+                    .movies:nth-child(1)::before,
+                    .movies:nth-child(4)::before  
+                    {                    
+                    width: 970px;                                                   
+                    }  
+                }
+            }
+            #harrypotter
+            {
+                #harrypotter-row
+                {
+                    .movies
+                    {
+                        width: 250px;
+                        height: 320px;
+                        .synopsis
+                        {
+                            font-size: 0.6em;
+                            padding: 0 10px;
+                        }
+                    }
+                }
+            }
+            #marvel
+            {
+                #marvel-row
+                {
+                    .movies
+                    {
+                        width: 400px;
+                        height: 250px;
+                        .synopsis
+                        {
+                            font-size: 0.7em;
+                            padding: 0 10px;
+                        }
+                    }
+                }
+            }
+        }
+    }   
+}
+@media screen and (max-width: 900px) 
+{
+    #main-content
+    {
+        #carousel
+        {
+            .mySlides
+            {    
+                width: 700px; 
+                .imgBx
+                {
+                    height: 600px;
+                    img
+                    {
+                        height: 100%;
+                    }
+                }   
+            }    
+        }
+        #movies-list
+        {
+            .film-row
+            {
+                .movies:hover
+                {
+                    .logoBx
+                        {
+                            width: 40%;
+                            bottom: 20px;
+                            top: initial;
+                            left: 15px;
+                            transform: none;                           
+                        }
+                }
+                .video
+                {                                     
+                    max-width: 100%;
+                    min-width: 100%;
+                }                
+                .textBx
+                {
+                    top: initial;
+                    bottom: 10px;
+                    width: 100%;
+                    
+                }
+                .synopsis
+                {
+                    display: none;
+                }
+            }
+            #starwars
+            {
+                #starwars-row
+                {
+                    .movies
+                    {
+                        position: relative;
+                        width: 250px;
+                        height: 200px;                   
+                    }
+                    .movies:nth-child(1)::before,
+                    .movies:nth-child(4)::before  
+                    {                    
+                    width: 970px;                                                   
+                    }  
+                }
+            }
+            #harrypotter
+            {
+                #harrypotter-row
+                {
+                    gap: 10px;
+                    .movies
+                    {
+                        width: 300px;
+                        height: 170px;
+                        &:hover
+                        {
+                            .logoBx
+                            {
+                                bottom: 0;
+                            }
+                        }                        
+                        .synopsis
+                        {
+                            font-size: 0.6em;
+                            padding: 0 10px;
+                        }
+                    }
+                }
+            }
+            #marvel
+            {
+                #marvel-row
+                {
+                    .movies
+                    {
+                        width: 300px;
+                        height: 220px;                        
+                    }
+                }
+            }
+        }
+    }   
+}

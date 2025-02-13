@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./films.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Films</title>
+</head>
+<body>
+    <header id="header">
+        <article id="logo">
+            <img src="./img/logo.png">
+            <h1>Nitflex</h1>
+        </article>   
+        <nav>
+            <a href="./index.html">Accueil</a>
+            <a href="./séries.html">Séries</a>
+            <a href="#footer">A propos</a>
+        </nav>
+        <form id="searchForm" onsubmit="return false;">
+            <input id="search" type="text" placeholder="Recherchez un film ou une série..." name="search">
+            <button type="submit"><i class="fa fa-search"></i></button>
+        </form>
+        <article id="results">          
+        </article>        
+        <button id="scrollToTop" onclick="scrollToTop()"><i class="fa fa-arrow-circle-o-up" aria-hidden="true"></i></button>       
+    </header>
+    <main id="main-content">
+        <h1>Films</h1>
+    </main>
+
+    <footer id="footer">
+        <article class="footer-top">    
+            <a href="#header"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>Retour en haut de page<i class="fa fa-arrow-circle-up" aria-hidden="true"></i></a>
+        </article>
+        <article class="footer-content">
+            <article class="footer-section about">
+                <h3>À propos</h3>
+                <p>Ce projet est une création de développeur inspirée des plateformes de streaming modernes. Il ne génère aucun revenu, est destiné à de potentiels recruteurs et est à but purement démonstratif.</p>
+            </article>
+            
+            <article class="footer-section social">
+                <h3>Suivez-moi</h3>
+                <a href="https://github.com/tonprofil" target="_blank"><i class="fa fa-github-square" aria-hidden="true"></i>GitHub</a>
+                <a href="https://linkedin.com/in/tonprofil" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
+            </article>
+        </article>
+        <article class="footer-bottom">
+            <p>&copy; 2024 Nitflex | Tous droits réservés.</p>
+        </article>
+    </footer>
+
+    <script src="./js/films.js"></script>
+</body>
+</html>

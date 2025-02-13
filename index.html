@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Nitflex</title>
+</head>
+<body>
+    <article id="launch-page" class="launch">        
+        <article class="launch-text">            
+            <img id="title-logo" src="./img/logo2.png" alt="">
+            <h1>Des milliers de films et séries en illimité.</h1>
+            <article class="discover">
+                <article class="discover-slide">
+                    <h3>Regardez sur votre TV</h3>
+                    <p>Regardez le contenu sur votre TV, console de salon, Apple TV, lecteur Blu-ray et plus encore.</p>
+                    <i class="fa fa-television" aria-hidden="true"></i>
+                </article>
+                <article class="discover-slide">
+                    <h3>N'importe où</h3>
+                    <p>Regardez des films et séries en accès illimité sur votre TV, smartphone, tablette et ordinateur.</p>
+                    <i class="fa fa-globe" aria-hidden="true"></i>
+                </article>
+                <article class="discover-slide">
+                    <h3>Profitez de votre contenu hors connexion</h3>
+                    <p>Enregistrez vos programmes préférés et ayez toujours quelque chose à regarder.</p>
+                    <i class="fa fa-download" aria-hidden="true"></i>
+                </article>
+                <article class="discover-slide">
+                    <h3>Des profils pour les plus jeunes</h3>
+                    <p>Les enfants découvrent de nouvelles aventures et retrouvent leurs personnages préférés dans un espace bien à eux.</p>
+                    <i class="fa fa-users" aria-hidden="true"></i>
+                </article>
+            </article>
+            <button id="start">Commencer<i class="fa fa-chevron-right" aria-hidden="true"></i> <i class="fa fa-chevron-right" aria-hidden="true"></i></button>                               
+        </article>
+        <article class="disclaimer">
+            <h3 id="disclaimer-title"><i class="fa fa-caret-down" aria-hidden="true"></i> Disclaimer <i class="fa fa-caret-down" aria-hidden="true"></i></h3>            
+            <p id="disclaimer-text">
+            Ce site fictif a été conçu dans le cadre de mon portfolio de développeur web. Inspiré par l'interface et l'expérience utilisateur des plateformes comme Netflix, il s'agit d'un projet personnel visant à mettre en valeur mes compétences en développement web.
+            <br><br>
+            Aucune exploitation commerciale n'est associée à ce site, et il ne génère aucun revenu. Toutes les données, images et vidéos utilisées sont incluses à titre d'exemple pour enrichir l'expérience utilisateur et ne sont pas utilisées à des fins lucratives. Aucun film ou série présenté sur ce site n'est d'ailleurs disponible (le bouton "Regarder" ne conduit vers aucun lien).
+            <br><br>
+            L'objectif principal de ce projet est de mettre en valeur mes compétences techniques et créatives pour des opportunités professionnelles.
+            </p>                       
+        </article>                   
+    </article>
+    <header id="header">
+        <article id="logo">
+            <img src="./img/logo.png">
+            <h1>Nitflex</h1>
+        </article>   
+        <nav>
+            <a href="./films.html">Films</a>
+            <a href="./séries.html">Séries</a>
+            <a href="#footer">A propos</a>
+        </nav>
+        <form id="searchForm" onsubmit="return false;">
+            <input id="search" type="text" placeholder="Recherchez un film ou une série..." name="search">
+            <button type="submit"><i class="fa fa-search"></i></button>
+        </form>
+        <article id="results">          
+        </article>        
+        <button id="scrollToTop" onclick="scrollToTop()"><i class="fa fa-arrow-circle-o-up" aria-hidden="true"></i></button>       
+    </header>
+    <main id="main-content">
+        <section id="carousel">
+            <!-- Les films sont générés dynamiquement par le js -->     
+            <a class="prevBtn" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="nextBtn" onclick="plusSlides(1)">&#10095;</a>   
+            <article class="dots">
+                <span class="dot" onclick="currentSlide(1)"></span>
+                <span class="dot" onclick="currentSlide(2)"></span>
+                <span class="dot" onclick="currentSlide(3)"></span>
+                <span class="dot" onclick="currentSlide(4)"></span>
+            </article>             
+            <article id="categories"></article>      
+        </section>               
+        <section id="movies-list">                        
+            <!-- Les films sont générés dynamiquement par le js -->            
+        </section>
+    </main>
+    <footer id="footer">
+        <article class="footer-top">    
+            <a href="#header"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i>Retour en haut de page<i class="fa fa-arrow-circle-up" aria-hidden="true"></i></a>
+        </article>
+        <article class="footer-content">
+            <article class="footer-section about">
+                <h3>À propos</h3>
+                <p>Ce projet est une création de développeur inspirée des plateformes de streaming modernes. Il ne génère aucun revenu, est destiné à de potentiels recruteurs et est à but purement démonstratif.</p>
+            </article>
+            
+            <article class="footer-section social">
+                <h3>Suivez-moi</h3>
+                <a href="https://github.com/tonprofil" target="_blank"><i class="fa fa-github-square" aria-hidden="true"></i>GitHub</a>
+                <a href="https://linkedin.com/in/tonprofil" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
+            </article>
+        </article>
+        <article class="footer-bottom">
+            <p>&copy; 2024 Nitflex | Tous droits réservés.</p>
+        </article>
+    </footer>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>
