@@ -1,0 +1,38 @@
+[
+  {
+    "id": "inception",
+    "title": "Inception",
+    "logo": "./img/logos/inception.png",
+    "genre": "Sci-Fi",
+    "duration": "2h28",
+    "image": "https://drive.google.com/uc?export=view&id=1D2UxZmDwmmPpiLwnSNOh6l-RI7W3PUnz",
+    "note": "8.8/10"
+  },
+  {
+    "id": "dark-knight",
+    "title": "The Dark Knight",
+    "logo": "./img/logos/darkknight.png",
+    "genre": "Action",
+    "duration": "2h32",
+    "image": "https://drive.google.com/uc?export=view&id=1fdrLdfQMlDFO23GuzKTocRFpjYTsYKA0",
+    "note": "9/10"
+  },
+  {
+    "id": "matrix",
+    "title": "Matrix",
+    "logo": "https://drive.google.com/uc?export=view&id=14v1O6eT8qgES2xR2WMlumra6ZBCLzh_2",
+    "genre": "Action/SF",
+    "duration": "2h15",
+    "image": "https://drive.google.com/uc?export=view&id=1WmmYEzXf6FCgFTmS7R-Uja87aSDZHF5Q",
+    "note": "8.7/10"
+  },
+  {
+    "id": "interstellar",
+    "title": "Interstellar",
+    "logo": "./img/logos/interstellar.png",
+    "genre": "Sci-Fi",
+    "duration": "2h49",
+    "image": "https://drive.google.com/uc?export=view&id=1ETdVJ7Q0AZEbK8YwWPBXpvUR663AiW20",
+    "note": "8.7/10"
+  }
+]
