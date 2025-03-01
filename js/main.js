@@ -289,7 +289,7 @@ searchForm.addEventListener("submit", (event) => {
   if (filteredMovies.length > 0) {
     filteredMovies.forEach(movie => {
       const result = document.createElement('a');
-      result.setAttribute("href", `film-template.html?id=${movie.id}`);
+      result.setAttribute("href", `media-template.html?id=${movie.id}`);
       result.className = "resultBx";
       result.innerHTML = `                       
                <img class="imgMovie" src="${movie.image}" alt="${movie.title}">
