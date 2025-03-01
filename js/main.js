@@ -155,9 +155,9 @@ function createFilmSection(id, title, logoSrc) {
     `;
     document.getElementById('movies-list').appendChild(section);
 }
-createFilmSection('starwars', 'Films et séries récents', './img/logos/StarWarsctg.png');
-createFilmSection('harrypotter','', './img/logos/HarryPotterSection.png');
-createFilmSection('marvel',"Derniers films", './img/logos/MarvelSection.png');
+createFilmSection('starwars', 'Films et séries récents', 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712877/starwarsctg_k4ydwz.png');
+createFilmSection('harrypotter','', 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712856/HarryPotterSection_hjdfiv.png');
+createFilmSection('marvel',"Derniers films", 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712874/MarvelSection_gcqpoe.png');
 
 //
 //Créer les catégories
@@ -171,9 +171,9 @@ function createCategory(id, logo) {
     `;
     document.getElementById('categories').appendChild(ctglink);    
 }
-createCategory('starwars', './img/logos/StarWarsctg.png');
-createCategory('harrypotter', './img/logos/HarryPotterSection.png');
-createCategory('marvel', './img/logos/MarvelSection.png');
+createCategory('starwars', 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712877/starwarsctg_k4ydwz.png');
+createCategory('harrypotter', 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712856/HarryPotterSection_hjdfiv.png');
+createCategory('marvel', 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712874/MarvelSection_gcqpoe.png');
 //
 //Créer les fiches de films
 //
