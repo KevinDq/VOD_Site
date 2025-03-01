@@ -2,20 +2,20 @@
   {
     "id": "inception",
     "title": "Inception",
-    "logo": "./img/logos/inception.png",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712853/Inception_smxilp.png",
     "year": 2010,
     "duration": "2h28",
     "genre": "Sci-Fi",
     "director": "Christopher Nolan",
     "actors": "Leonardo DiCaprio, Eliott Page, Joseph Gordon-Levitt",
     "synopsis": "Dom Cobb est un voleur expérimenté dans l'art périlleux de l'extraction : sa spécialité consiste à s'approprier les secrets les plus précieux d'un individu, enfouis au plus profond de son subconscient, pendant qu'il rêve et que son esprit est particulièrement vulnérable. Très recherché pour ses talents dans l'univers trouble de l'espionnage industriel, Cobb est aussi devenu un fugitif traqué dans le monde entier. Cependant, une ultime mission pourrait lui permettre de retrouver sa vie d'avant.",
-    "image": "https://drive.google.com/uc?export=view&id=1D2UxZmDwmmPpiLwnSNOh6l-RI7W3PUnz",
-    "bg": "https://drive.google.com/uc?export=view&id=1D2UxZmDwmmPpiLwnSNOh6l-RI7W3PUnz",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712806/inception_d7sxem.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712844/inception_pkbfmr.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1fUYPoEiRMza4ANwLeZ4zX-xIBAkREJ7x",
-      "https://drive.google.com/uc?export=view&id=1EvYxHs6scn2PD_nz3N2dSSaAE9Uc7dgF",
-      "https://drive.google.com/uc?export=view&id=1nNOpb80xTKVho_TsFPEkPCvp-pprfj9w",
-      "https://drive.google.com/uc?export=view&id=1ZBTQUErCcSpUfXwiohNWLKl9g96NfG32"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712909/inception1_kkw3qv.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712910/inception3_sl7hqb.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712910/inception2_p7l4ro.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712910/inception4_upqed4.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/CPTIgILtna8",
     "note": "8.8/10"
@@ -23,20 +23,20 @@
   {
     "id": "dark-knight",
     "title": "The Dark Knight",
-    "logo": "./img/logos/darkknight.png",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712852/Darkknight_jqnmfc.png",
     "year": 2008,
     "duration": "2h32",
     "genre": "Action",
     "director": "Christopher Nolan",
     "actors": "Christian Bale, Heath Ledger, Gary Oldman",
     "synopsis": "Batman est plus que jamais déterminé à éradiquer le crime organisé qui sème la terreur en ville. Epaulé par le lieutenant Jim Gordon et par le procureur de Gotham City, Harvey Dent, Batman voit son champ d'action s'élargir. La collaboration des trois hommes s'avère très efficace et ne tarde pas à porter ses fruits jusqu'à ce qu'un criminel redoutable vienne plonger la ville de Gotham City dans le chaos.",
-    "image": "https://drive.google.com/uc?export=view&id=1FNkkkLDWrcYmK-rUazS7iW-sClhmUAQ9",
-    "bg": "https://drive.google.com/uc?export=view&id=1fdrLdfQMlDFO23GuzKTocRFpjYTsYKA0",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712801/dark_knight_urfsrc.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712843/darkknight_bijm7i.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1kEqctOjU6LooZlbRMYFAGMXuoRhuZy2_",
-      "https://drive.google.com/uc?export=view&id=1Qd9Hma5JL1mnbqHvXJTXDR4Jz2O3gv35",
-      "https://drive.google.com/uc?export=view&id=1mQ3SuGQaBfVNa4P3YrJ-lffXpe9IET6e",
-      "https://drive.google.com/uc?export=view&id=1tjv5Byzk6zvU0rKd6WV66VUo2RZrHT88"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712895/darkknight4_o6qkxc.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712895/darkknight2_cyletc.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712894/darkknight3_qiecg9.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712894/darkknight1_ziapce.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/XGqgxGBn7Qw",
     "note": "9/10"
@@ -44,20 +44,20 @@
   {
     "id": "matrix",
     "title": "Matrix",
-    "logo": "https://drive.google.com/uc?export=view&id=14v1O6eT8qgES2xR2WMlumra6ZBCLzh_2",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712874/matrix_tovnj6.png",
     "year": 1999,
     "duration": "2h15",
     "genre": "Action/SF",
     "director": "Lana et Lilly Wachowski",
     "actors": "Keenu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",
     "synopsis": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber-espace. À cheval entre deux mondes, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui-ci l'exhorte à aller au-delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est-ce que la Matrice ?",
-    "image": "https://drive.google.com/uc?export=view&id=1WmmYEzXf6FCgFTmS7R-Uja87aSDZHF5Q",
-    "bg": "https://drive.google.com/uc?export=view&id=1WmmYEzXf6FCgFTmS7R-Uja87aSDZHF5Q",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712812/matrix_cdaovd.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712846/matrixb_npnfwk.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1M6V0bulKkvKvtBl-kYGm1pilU4WTsfbJ",
-      "https://drive.google.com/uc?export=view&id=1PskF4buX_zDMp89Ygcb0uvdzsHbG5hbL",
-      "https://drive.google.com/uc?export=view&id=12XAF1jr-OffshRNQPl4COPeZrRmqdjjo",
-      "https://drive.google.com/uc?export=view&id=155IY-35Rxz-YNCvKoa3-GKDfs-o4WC28"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712926/matrix2_jdkoet.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712926/matrix3_ndribs.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712926/matrix4_xydeea.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712926/matrix1_clxjv4.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/XTX3pV9TDSk",
     "note": "8.7/10"
@@ -65,20 +65,20 @@
   {
     "id": "interstellar",
     "title": "Interstellar",
-    "logo": "./img/logos/interstellar.png",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712853/Interstellar_otiev5.png",
     "year": 2014,
     "duration": "2h49",
     "genre": "Sci-Fi",
     "director": "Christopher Nolan",
     "actors": "Matthew McConaughey, Jessica Chastain, Anne Hathaway, Timothée Chalamet",
     "synopsis": "Dans un proche futur, la Terre est devenue hostile pour l'homme. Les tempêtes de sable sont fréquentes et il n'y a plus que le maïs qui peut être cultivé, en raison d'un sol trop aride. Cooper est un pilote, recyclé en agriculteur, qui vit avec son fils et sa fille dans la ferme familiale. Lorsqu'une force qu'il ne peut expliquer lui indique les coordonnées d'une division secrète de la NASA, il est alors embarqué dans une expédition pour sauver l'humanité.",
-    "image": "https://drive.google.com/uc?export=view&id=1ETdVJ7Q0AZEbK8YwWPBXpvUR663AiW20",
-    "bg": "https://drive.google.com/uc?export=view&id=1lxdY03aPTsj0CdQiRLa3h-5a6RfzD3pB",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712806/interstellar_jqptyt.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712857/interstellar_olokym.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1c8-90DC3b5thCHRFQe0et2Hn6_Upx-LL",
-      "https://drive.google.com/uc?export=view&id=1ORxrCyAA4szPqr_jlKo0zfETxudtvkKY",
-      "https://drive.google.com/uc?export=view&id=1axK2b0itlnIrKSJH4yXqXlQg5E8KobRL",
-      "https://drive.google.com/uc?export=view&id=1b12VZem9MnWG6r0WyWSRsjfP8DKInawJ"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712911/interstellar1_aobfy2.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712911/interstellar2_mcyxq3.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712911/interstellar3_uhcwo7.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712911/interstellar4_ridstq.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/VaOijhK3CRU",
     "note": "8.7/10"
@@ -86,7 +86,7 @@
   {
     "id": "starwars7",
     "title": "Star Wars Episode VII : Le Réveil de la Force",
-    "logo": "https://drive.google.com/uc?export=view&id=1DT32h2Mv5v3622785i4NO8Ik-z5qZhiL",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712876/starwars7_hhvwzb.png",
     "saga": "Star Wars",
     "release": "2015-12-16",
     "year": 2015,
@@ -95,13 +95,13 @@
     "director": "J. J. Abrams",
     "actors": "Daisy Ridley, John Boyega, Adam Driver, Oscar Isaac",
     "synopsis": "Plus de 30 ans après la bataille d'Endor, la galaxie n'en a pas fini avec la tyrannie et l'oppression. Les membres de l'Alliance rebelle, devenus la Résistance, combattent les vestiges de l'Empire réunis sous la bannière du Premier Ordre. Un mystérieux guerrier, Kylo Ren, semble vouer un culte à Dark Vador. Au même moment, une jeune femme nommée Rey, pilleuse d'épaves sur la planète désertique Jakku, va faire la rencontre de Finn, un Stormtrooper en fuite.",
-    "image": "./img/affiches/Starwars7.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1WbarPGvpdAA-5SxRptDLOkF2iJ2HEDF6",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712815/starwars7_mld7r9.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712846/starwars7_ftyqke.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1dfJKKZuOL5sJBasf3Bpr8zltmQMVrmgB",
-      "https://drive.google.com/uc?export=view&id=19fgCvsXKS9wJ29ExMFYx8CrEtqsakZiX",
-      "https://drive.google.com/uc?export=view&id=1hwXt6nf5vjuNY2uXmH4OgL7-WW5Uq1Aj",
-      "https://drive.google.com/uc?export=view&id=1kiYH3yB_B32jyNS5NVbYZACTf-oOlhF9"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712938/starwarsVII_1_pppgtr.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712938/starwarsVII_2_wuricd.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712938/starwarsVII_3_ed7lcv.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712939/starwarsVII_4_i7vdv7.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/mH9Ygfs5avo",
     "note": "7.8/10"
@@ -110,7 +110,7 @@
     "id": "starwars8",
     "last": true,
     "title": "Star Wars Episode VIII : Les Derniers Jedi",
-    "logo": "https://drive.google.com/uc?export=view&id=1h6TDnwOa5ijR-XQayFXaHirdCEHyj-f9",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712877/starwars8_hwmi4t.png",
     "saga": "Star Wars",
     "release": "2017-12-13",
     "year": 2017,
@@ -119,13 +119,13 @@
     "director": "Rian Johnson",
     "actors": "Daisy Ridley, John Boyega, Adam Driver, Oscar Isaac",
     "synopsis": "Le Premier Ordre s'étend, poussant la Résistance dans ses retranchements. Pendant ce temps, Rey essaye de convaincre Luke Skywalker de lui enseigner les rudiments de la Force.",
-    "image": "./img/affiches/Starwars8.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1bbFImN8clL3PPVHVeRhOtwbQGeHfzQF2",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712815/starwars8_uqhd13.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712866/starwars8_etixfj.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1s6O347eHPUkUj7fZfYzfh5kmI2KNDgf6",
-      "https://drive.google.com/uc?export=view&id=1lZlZkUw-F6LIQKuTX4u1fLgI1M4KQEUi",
-      "https://drive.google.com/uc?export=view&id=1NQx2bhDZUTXbQMvfinuC4GakYgUBNOKN",
-      "https://drive.google.com/uc?export=view&id=1gqR5u-FGhtGwQByTTLDS7OBiI0OsyhU3"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712938/starwarsVIII_1_xnvmb8.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712937/starwarsVIII_2_hbkxxa.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712937/starwarsVIII_3_gkm7pv.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712938/starwarsVIII_4_t19jua.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/wY708Ky2SG8",
     "video": "./videos/starwarsVIII.mp4",
@@ -135,7 +135,7 @@
     "id": "starwars9",
     "last": true,
     "title": "Star Wars Episode IX : L'Ascencion de Skywalker",
-    "logo": "https://drive.google.com/uc?export=view&id=1ivHfMrr2EMDBbEm5a8A9HIKBMatFzYNR",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712877/starwars9_em1e5j.png",
     "saga": "Star Wars",
     "duration": "2h21",
     "release": "2019-12-18",
@@ -144,13 +144,13 @@
     "director": "J. J. Abrams",
     "actors": "Daisy Ridley, John Boyega, Adam Driver, Oscar Isaac",
     "synopsis": "Un an a passé depuis que Kylo Ren a tué Snoke et pris sa place. Rey, Poe, Leia et leurs alliés se préparent à reprendre le combat. Mais ils vont devoir faire face à un vieil ennemi : l'empereur Palpatine.",
-    "image": "./img/affiches/Starwars9.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1Ht52AOORYM4QJ_-dKZ_v9-y7T5YCmjQf",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712815/starwars9_phjlhd.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712860/starwars9_dpsicx.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1HE_WrqN8J_8KF72t5wPRQZT2w8ziWQBP",
-      "https://drive.google.com/uc?export=view&id=12R4JmQ8EBPTgGcPj73AfTwjHqzI1hRnH",
-      "https://drive.google.com/uc?export=view&id=1mZeDVT00gXf52Ee-FOfzvz6wD7LjbWOB",
-      "https://drive.google.com/uc?export=view&id=1KMQgcHyAXR9Xe9ctpykK0Jc4rcA574ZM"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712933/starwarsIX_1_tyznhp.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712933/starwarsIX_2_bmip8l.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712933/starwarsIX_3_yzfznk.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712934/starwarsIX_4_pkedye.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/pHgwf2eMFnA",
     "video": "./videos/starwarsIX.mp4",
@@ -159,7 +159,7 @@
   {
     "id": "starwars1",
     "title": "Star Wars Episode I : La Menace Fantôme",
-    "logo": "https://drive.google.com/uc?export=view&id=1orLY3EzhyfbYaQ5WeMQzLnXu6-zdZTjm",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712875/starwars1_zunoxn.png",
     "saga": "Star Wars",
     "release": "1999-10-13",
     "year": 1999,
@@ -168,13 +168,13 @@
     "director": "Georges Lucas",
     "actors": "Ewan McGregor, Liam Neeson, Jake Lloyd, Natalie Portman",
     "synopsis": "Avant de devenir un célèbre chevalier Jedi, et bien avant de se révéler l'âme la plus noire de la galaxie, Anakin Skywalker est un jeune esclave sur la planète Tatooine. La Force est déjà puissante en lui et il est un remarquable pilote de Podracer. Le maître Jedi Qui-Gon Jinn le découvre et entrevoit alors son immense potentiel. Pendant ce temps, l'armée de droïdes de l'insatiable Fédération du Commerce a envahi Naboo dans le cadre d'un plan secret des Sith visant à accroître leur pouvoir.",
-    "image": "https://drive.google.com/uc?export=view&id=17snRZbDVjvpykIAuNOVaJurRdxrgkL8d",
-    "bg": "https://drive.google.com/uc?export=view&id=17snRZbDVjvpykIAuNOVaJurRdxrgkL8d",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712813/starwars1_a1igap.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712858/starwars1_czhozq.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1nJpS926J_brSy0AvQuohYo_hWWLHOSXQ",
-      "https://drive.google.com/uc?export=view&id=1iy0SrMiA3wsMFnSmKQ31E5xExlpaQeLR",
-      "https://drive.google.com/uc?export=view&id=1TfAiDjogMgQtUZXe_vlCWbNJNw01L2UH",
-      "https://drive.google.com/uc?export=view&id=1ImHP3gxQ2vZzMYrcdQnaXngLPvmnf4Qh"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712935/starwarsI_1_cljgvh.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712935/starwarsI_2_ujc3p0.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712935/starwarsI_3_lvlc0j.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712935/starwarsI_4_z2itk4.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/G9e3R-vkj_A",
     "note": "6.5/10"
@@ -182,7 +182,7 @@
   {
     "id": "starwars2",
     "title": "Star Wars Episode II : L'Attaque des Clones",
-    "logo": "https://drive.google.com/uc?export=view&id=1jIV4eFw0lRsNCjrvMS-RM159vgFvE1Zy",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712875/starwars2_iiuiem.png",
     "saga": "Star Wars",
     "release": "2002-05-17",
     "year": 2002,
@@ -191,13 +191,13 @@
     "director": "Georges Lucas",
     "actors": "Ewan McGregor, Hayden Christensen, Natalie Portman, Samuel L. Jackson",
     "synopsis": "Depuis le blocus de la planète Naboo, la République, gouvernée par le Chancelier Palpatine, connaît une crise. Un groupe de dissidents, mené par le sombre Jedi comte Dooku, manifeste son mécontentement. Le Sénat et la population intergalactique se montrent pour leur part inquiets. Certains sénateurs demandent à ce que la République soit dotée d'une armée pour empêcher que la situation ne se détériore. Padmé Amidala, devenue sénatrice, est menacée par les séparatistes et échappe à un attentat.",
-    "image": "./img/affiches/Starwars2.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1rHb7AvnUS8RNScusH4MbBpy7oeR3OL7f",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712814/starwars2_efzw7x.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712846/starwars2_amzadl.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1URJpcEZssTJUyZmvWe6lZFygNGnr551R",
-      "https://drive.google.com/uc?export=view&id=18mng54oHq0PzKKpH8ZQP2blqnmbjkidh",
-      "https://drive.google.com/uc?export=view&id=149ZRCfnOT5ygq4kj42b_1-ZkBdr_5iQn",
-      "https://drive.google.com/uc?export=view&id=10frA3ysL5k4dCP3VRmBns78W6HK2YHDL"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712931/starwarsII_1_ugjlie.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712932/starwarsII_2_mgfsoj.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712932/starwarsII_3_x1puyr.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712933/starwarsII_4_oc2020.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/arGWLDOeoOw",
     "note": "6.6/10"
@@ -205,7 +205,7 @@
   {
     "id": "starwars3",
     "title": "Star Wars Episode III : La Revanche des Sith",
-    "logo": "https://drive.google.com/uc?export=view&id=19XzacddYi8ZFtZpH83gx4B-30fLVtSoE",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712876/starwars3_opoljl.png",
     "saga": "Star Wars",
     "release": "2005-05-18",
     "year": 2005,
@@ -214,13 +214,13 @@
     "director": "Georges Lucas",
     "actors": "Ewan McGregor, Hayden Christensen, Natalie Portman, Samuel L. Jackson",
     "synopsis": "La Guerre des Clones fait rage. Une franche hostilité oppose désormais le Chancelier Palpatine au Conseil Jedi. Anakin Skywalker, jeune Chevalier Jedi pris entre deux feux, hésite sur la conduite à tenir. Séduit par la promesse d'un pouvoir sans précédent, tenté par le côté obscur de la Force, il prête allégeance au maléfique Darth Sidious et devient Dark Vador.Les Seigneurs Sith s'unissent alors pour préparer leur revanche, qui commence par l'extermination des Jedi.",
-    "image": "https://drive.google.com/uc?export=view&id=18niVjzhb3Z5U-P4evqvLKXpYX7kQO2WS",
-    "bg": "https://drive.google.com/uc?export=view&id=18niVjzhb3Z5U-P4evqvLKXpYX7kQO2WS",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712814/starwars3_iucwr1.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712846/starwars3_i7bzlj.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1XW8fUmizIJXtj73Cu3Ue7jk68J4TpAW5",
-      "https://drive.google.com/uc?export=view&id=1ghd8V7Br4HPbuJvHDVdissy134YyYyAe",
-      "https://drive.google.com/uc?export=view&id=1tFRNLlf2fsvGhlwFxJ7f6chNyUsU-uzO",
-      "https://drive.google.com/uc?export=view&id=1bUb5bH3rBfTEhq98dJ33blVt1Lt8ARBa"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712931/starwarsIII_3_gc1en3.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712931/starwarsIII_2_orqpal.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712931/starwarsIII_1_lg3qst.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712931/starwarsIII_4_xjotgt.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/t1qtvKYwTV0",
     "note": "7.6/10"
@@ -228,7 +228,7 @@
   {
     "id": "starwars4",
     "title": "Star Wars Episode IV : Un Nouvel Espoir",
-    "logo": "https://drive.google.com/uc?export=view&id=1h_ggrrGD1HMVd55KqyxCTaTTZKxbR5km",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712876/starwars4_ftgsuz.png",
     "saga": "Star Wars",
     "release": "1977-10-19",
     "year": 1977,
@@ -237,13 +237,13 @@
     "director": "Georges Lucas",
     "actors": "Mark Hamill, Carrie Fisher, Harisson Ford, Anthony Daniels",
     "synopsis": "Alors que l'Alliance rebelle tente de détruire l'Étoile noire, arme suprême du despotique Empire galactique, Luke Skywalker, jeune ouvrier agricole, intercepte un appel à l'aide de la princesse Leia. Il se lance ainsi dans une mission courageuse afin de la délivrer de Darth Vador et de l'Empire.",
-    "image": "./img/affiches/Starwars4.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1F7SZR6uF1SHV2lcvCf7YP25ziXwGi3hK",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712814/starwars4_fcx41v.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712856/starwars4_s507op.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1DswdHwLsLpWJ8SBUjzq5Wsdm14YkLVZ0",
-      "https://drive.google.com/uc?export=view&id=16C68yFEoS5Q5bclwv9h2Vdo0tI6AtvqW",
-      "https://drive.google.com/uc?export=view&id=1kMfyluhSNJUENCJOfQ8u11P0rWs8M8G5",
-      "https://drive.google.com/uc?export=view&id=1o_0IRYheT2Ue4ZvczdDf9UDsbrVhqtba"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712933/starwarsIV_1_ess5ih.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712933/starwarsIV_2_wtnymz.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712933/starwarsIV_3_ufxp6x.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712933/starwarsIV_4_lexsoh.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/HKQgMXvgxsM",
     "note": "8.6/10"
@@ -251,7 +251,7 @@
   {
     "id": "starwars5",
     "title": "Star Wars Episode V : L'Empire contre-attaque",
-    "logo": "https://drive.google.com/uc?export=view&id=1qzSVBITU7-vlKJpm-e36WlN357iPNr_O",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712876/starwars5_aldlan.png",
     "saga": "Star Wars",
     "release": "1980-08-20",
     "year": 1980,
@@ -260,13 +260,13 @@
     "director": "Irvin Kershner",
     "actors": "Mark Hamill, Carrie Fisher, Harisson Ford, Billy Dee Williams",
     "synopsis": "Malgré la destruction de l'Étoile noire, l'Empire maintient son emprise sur la galaxie, et poursuit sans relâche sa lutte contre l'Alliance rebelle. Basés sur la planète glacée de Hoth, les rebelles essuient un assaut des troupes impériales. Parvenus à s'échapper, la princesse Leia, Han Solo, Chewbacca et C-3P0 se dirigent vers Bespin, la cité des nuages gouvernée par Lando Calrissian, ancien compagnon de Han.",
-    "image": "./img/affiches/Starwars5.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1rafHlErsle64xx7D4uFzeHw3CktlMULn",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712815/starwars5_pz9m5l.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712866/starwars5_ug77qc.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1ui9QaiQzFG1JWtykcr-2NB6fsVyREKN9",
-      "https://drive.google.com/uc?export=view&id=1OuyL9ne8rCnQpX_l7mphoPrRsaiHnq3V",
-      "https://drive.google.com/uc?export=view&id=19MMRhX9ycllxJOhFGzmqEy7udcs951SV",
-      "https://drive.google.com/uc?export=view&id=1s4Jnbq9Xy92qiPgDuxFHFNJJSRHBP4fQ"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712940/starwarsV_1_gxm7ee.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712940/starwarsV_2_ysor7j.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712940/starwarsV_3_ovxder.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712940/starwarsV_4_adsbor.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/mdrcnZNXmTM",
     "note": "8.7/10"
@@ -274,7 +274,7 @@
   {
     "id": "starwars6",
     "title": "Star Wars Episode VI : Le Retour du Jedi",
-    "logo": "https://drive.google.com/uc?export=view&id=1rBMEdw82HGT_7KoDhFVo-pWxA8620RvK",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712876/starwars6_wesppi.png",
     "saga": "Star Wars",
     "release": "1983-10-19",
     "year": 1983,
@@ -283,13 +283,13 @@
     "director": "Richard Marquand",
     "actors": "Mark Hamill, Carrie Fisher, Harisson Ford, Ian McDiarmid",
     "synopsis": "L'empire galactique est plus puissant que jamais : la construction de la nouvelle arme, l'étoile de la mort, menace l'univers tout entier... Han Solo est remis à l'ignoble contrebandier Jabba le Hutt par le chasseur de primes Boba Fett. après l'échec d'une première tentative d'évasion menée par la princesse Leia, également arrêtée par Jabba, Luke Skywalker et Lando parviennent à libérer leurs amis.",
-    "image": "./img/affiches/Starwars6.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1ollH6u36Mf2UslcB7xPMPEaAmLD_7Pyz",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712815/starwars6_xhtupd.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712846/starwars6_rh97sv.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1aAC9GVCQGH7L_zG7j7GWEWir2trAQmqj",
-      "https://drive.google.com/uc?export=view&id=100WmZvIIXntieU1sHeolrvtTwfQpW8z2",
-      "https://drive.google.com/uc?export=view&id=1AsZFOjuING8Fzr8d0RW2J9zQ7dslGy3p",
-      "https://drive.google.com/uc?export=view&id=1l_wJbhCi8xQrSreSSCAIBOfR9XCWwLjk"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712939/starwarsVI_1_p3cdq9.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712939/starwarsVI_2_lxkmlp.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712939/starwarsVI_3_yre3rk.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712940/starwarsVI_4_aghvna.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/VUgIH6fyDvs",
     "note": "8.3/10"
@@ -297,7 +297,7 @@
   {
     "id": "starwarsrogue",
     "title": "Rogue One : A Star Wars Story",
-    "logo": "https://drive.google.com/uc?export=view&id=1TB3n-XISFZ6SaD6Ku2mWfkAibUPoxNYl",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712878/starwarsrogue_ghepeu.png",
     "saga": "Star Wars",
     "release": "2016-12-14",
     "year": 2016,
@@ -306,13 +306,13 @@
     "director": "Gareth Edwards",
     "actors": "Felicity Jones, Diego Luna, Donnie Yen, Mads Mikkelsen",
     "synopsis": "Situé entre les épisodes III et IV de la saga Star Wars, des individus ordinaires, pour rester fidèles à leurs valeurs, vont tester l'impossible au péril de leur vie. Ils n'avaient pas prévu de devenir héros, mais dans une époque de plus en plus sombre, ils vont devoir dérober les plans de l'Étoile de la mort, l'arme de destruction ultime de l'Empire.",
-    "image": "./img/affiches/Starwarsrogue.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1B9cD5kFpZPRrMkuDw1FPEilRI6KBSo65",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712817/starwarsrogue_oploug.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712847/starwarsrogue_hjfigs.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1sU6y1fI48-NYzDtqnU2tTF6lQjG0nXEx",
-      "https://drive.google.com/uc?export=view&id=1cplDpfwYDiAP48LE9Xe3lSkeUfxM96Ap",
-      "https://drive.google.com/uc?export=view&id=1qafAoyRXQ2QUumRa899tN7TvSDkdOgVh",
-      "https://drive.google.com/uc?export=view&id=1C8N2eqpLPqDnBlYa-nm0hLlsELspyrBu"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712935/starwarsrogue1_ved2wo.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712935/starwarsrogue2_apohug.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712936/starwarsrogue3_fmdtmv.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712936/starwarsrogue4_gd0go7.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/ox6Dsbvp7ng",
     "note": "7.8/10"
@@ -321,7 +321,7 @@
     "id": "starwarssolo",
     "title": "Solo : A Star Wars Story",
     "last": true,
-    "logo": "https://drive.google.com/uc?export=view&id=1mVcOsRA6t9vI8QSjffnMK_xbAP_P_pGZ",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712878/starwarssolo_zyblpz.png",
     "saga": "Star Wars",
     "release": "2018-05-23",
     "duration": "2h15",
@@ -330,13 +330,13 @@
     "director": "Ron Howard",
     "actors": "Alden Ehrenreich, Emilia Clarke, Donal Glover, Woody Harrelson",
     "synopsis": "Le jeune Han Solo part à l'aventure en se joignant à un gang de contrebandiers galactiques. Il a besoin d'un vaisseau rapide et rencontre Lando Calrissian, le propriétaire du Faucon Millenium.",
-    "image": "./img/affiches/Starwarssolo.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1i9xTKakIczcBsaWC-6MaQcYAxv-bBUoN",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712817/starwarssolo_biy57k.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712847/starwarssolo_pt0n7r.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=10GIgsbGp_nBsSU5umEzElYRgra-DUMre",
-      "https://drive.google.com/uc?export=view&id=1LEI2_Kh7bdrD4WRVchi1Zor50TAnFJM_",
-      "https://drive.google.com/uc?export=view&id=1qM4fbNKls3QFvMezqZ6Z-A7G5tgVoid9",
-      "https://drive.google.com/uc?export=view&id=1KXHSYi5gjSUruqLT_HBiPRwy6IJ0zcQd"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712936/starwarssolo1_ejp16z.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712936/starwarssolo2_sdmfea.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712937/starwarssolo3_f8isgq.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712937/starwarssolo4_iaajvm.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/mJUsd9D9NW0",
     "video": "./videos/starwarssolo.mp4",
@@ -345,7 +345,7 @@
   {
     "id": "harrypotter1",
     "title": "Harry Potter à l'École des Sorciers",
-    "logo": "https://drive.google.com/uc?export=view&id=1qTB5L6B2K6WZKZfoduA6DhciEjjY2NT7",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712852/harry1_q9b7pa.png",
     "saga": "Harry Potter",
     "duration": "2h32",
     "year": 2001,
@@ -353,13 +353,13 @@
     "director": "Chris Colombus",
     "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint, Alan Rickman",
     "synopsis": "Harry Potter, un jeune orphelin, est élevé par son oncle et sa tante qui le détestent. Le jour de son onzième anniversaire, Harry reçoit la visite inattendue d'un dénommé Hagrid qui lui révèle qu'il est en fait le fils de deux puissants magiciens et qu'il possède lui aussi d'extraordinaires pouvoirs.",
-    "image": "./img/affiches/Harry1.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1kXGMO2R9nnXpKya-P_mjVVHZ9Q9TeE92",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712803/harry1_apy7tf.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712844/harry1_i1edev.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1TNEWFdkK71tgI20T4fjHK004zp1WW5bD",
-      "https://drive.google.com/uc?export=view&id=1Q8UfiQuSnusTucsMUuKQ63byfx6LoApG",
-      "https://drive.google.com/uc?export=view&id=1fPKQ9PRUWaYLyzEaYh40FNJqxR4j1L3k",
-      "https://drive.google.com/uc?export=view&id=1rVp-nsUBlWajEHZIFpGJnxDRLbM2vwc9"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712905/harryI_1_obkpgh.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712905/harryI_2_scpz0m.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712905/harryI_3_r8sd9j.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712905/harryI_4_p8aiv9.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/P1BGgqhVGAI",
     "video": "./videos/harry1.mp4",
@@ -368,7 +368,7 @@
   {
     "id": "harrypotter2",
     "title": "Harry Potter et la Chambre des Secrets",
-    "logo": "https://drive.google.com/uc?export=view&id=1ZmXVWw4jagdYjEnIAf5Okg3l-t1Y0VT5",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712859/harry2_arruga.png",
     "saga": "Harry Potter",
     "duration": "2h41",
     "year": 2002,
@@ -376,13 +376,13 @@
     "director": "Chris Colombus",
     "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint, Alan Rickman",
     "synopsis": "Alors que Harry Potter est contraint de passer la soirée dans sa chambre, Dobby, un elfe, fait son apparition. Il lui annonce que de terribles dangers menacent Poudlard et qu'il ne doit pas y retourner. Harry refuse de le croire. Mais sitôt la rentrée des classes effectuée, ce dernier entend une voix malveillante.",
-    "image": "./img/affiches/Harry2.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1UaDKow1w16sZ65SwNCTcXKTVi6Dd8Yfc",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712803/harry2_aure3j.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712862/harry2_u2xhq0.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1PtRL6xQvQwJz04JVM2xwWUtpoLmJvdU_",
-      "https://drive.google.com/uc?export=view&id=1g4Aowj80-E190VkHBDgDWKrCFK02TTMA",
-      "https://drive.google.com/uc?export=view&id=1zZxKnjq3rMt0nndNOE4sdPVBQNJyqyVm",
-      "https://drive.google.com/uc?export=view&id=1NJWCbIAFSzX9NNiQ9JhMM80y0cQnuV3o"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712903/harryII_1_hnixmr.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712903/harryII_2_jk6nvg.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712903/harryII_4_t25qus.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712903/harryII_3_igczem.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/Z3T8PuWuoL0",
     "video": "./videos/harry2.mp4",
@@ -391,7 +391,7 @@
   {
     "id": "harrypotter3",
     "title": "Harry Potter et le Prisonnier d'Azkaban",
-    "logo": "https://drive.google.com/uc?export=view&id=1nWoSi8oSP_xnteB0f_Jf73odH-b2_EVf",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712852/harry3_f8msno.png",
     "saga": "Harry Potter",
     "duration": "2h22",
     "year": 2004,
@@ -399,13 +399,13 @@
     "director": "Alfonso Cuarón",
     "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint, Alan Rickman",
     "synopsis": "Sirius Black, un dangereux sorcier criminel, s'échappe de la sombre prison d'Azkaban avec un seul et unique but : se venger d'Harry Potter, entré avec ses amis Ron et Hermione en troisième année à Poudlard, où ils auront aussi à faire avec les terrifiants Détraqueurs.",
-    "image": "./img/affiches/Harry3.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1j_lio03Bf3h5rf2xnQky89qnCD8NduVp",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712804/harry3_eq7csp.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712855/harry3_zqzlvu.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1IliSogYE9jnq79oUcnHPCqCTYxY9ow-B",
-      "https://drive.google.com/uc?export=view&id=1Z5TuY0HLiCK4vTGNauloPCKo3QBiVY5A",
-      "https://drive.google.com/uc?export=view&id=1S2KK4ti9vNPQlRUENqT67Ejm_n-Fjsk9",
-      "https://drive.google.com/uc?export=view&id=163dl4fmICVH8CVKtbPVB9plz5vemjWSP"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712902/harryIII_1_vqnndp.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712902/harryIII_2_bcag7h.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712902/harryIII_3_afljfz.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712903/harryIII_4_llmuc1.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/CLncEeVf4ks",
     "video": "./videos/harry3.mp4",
@@ -414,7 +414,7 @@
   {
     "id": "harrypotter4",
     "title": "Harry Potter et la Coupe de Feu",
-    "logo": "https://drive.google.com/uc?export=view&id=1MswI5gw1kh8qt0bhin7IBC6IofIKn26x",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712852/harry4_li7qdl.png",
     "saga": "Harry Potter",
     "duration": "2h37",
     "year": 2005,
@@ -422,13 +422,13 @@
     "director": "Mike Newell",
     "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint, Alan Rickman",
     "synopsis": "La quatrième année à Poudlard est marquée par le Tournoi des trois sorciers dont les participants sont choisis par la coupe de feu. Elle sélectionne Harry Potter tandis qu'il n'a pas l'âge légal requis. Il doit alors surmonté une série d'épreuves physiques de plus en plus difficiles...",
-    "image": "./img/affiches/Harry4.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1qHsw7Y1mLbsxmB-igrA0RVCwph_dRsTx",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712804/harry4_kg5v4z.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712844/harry4_qmc1di.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1zlSi0v0pVFPJvjphTTQQJ6uW0pjrE1e2",
-      "https://drive.google.com/uc?export=view&id=1k0rSm56A_ZIBjwS5cfwqYBtNfye2WME-",
-      "https://drive.google.com/uc?export=view&id=1o5Uyn7ySAJFIqbVRhQE6YENV0F_XJPUH",
-      "https://drive.google.com/uc?export=view&id=1AkJ3myfaxeApLA-RX7nSMjrIHJuoXmE_"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712903/harryIV_1_pzkyk0.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712903/harryIV_2_xzmm77.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712903/harryIV_3_efpxyz.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712904/harryIV_4_q9mmbh.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/XO9rqIgzDL0",
     "video": "./videos/harry4.mp4",
@@ -437,7 +437,7 @@
   {
     "id": "harrypotter5",
     "title": "Harry Potter et l'Ordre du Phénix",
-    "logo": "https://drive.google.com/uc?export=view&id=1Ihf8wTPhW_lflDk8MgeZAVkBVsZcqhKK",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712856/harry5_nglhrj.png",
     "saga": "Harry Potter",
     "duration": "2h18",
     "year": 2007,
@@ -445,13 +445,13 @@
     "director": "David Yates",
     "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint, Alan Rickman",
     "synopsis": "À sa cinquième année à Poudlard, Harry Potter passe pour un fou : le ministre de la magie réfute les révélations de l'adolescent et de Dumbledore, disant que le terrifiant Voldermort est de retour. Une nouvelle professeure refuse d'enseigner les techniques défensives magiques, et Harry crée donc un groupe de résistance clandestin.",
-    "image": "./img/affiches/Harry5.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1-AVKPGuyvCUEw5w_RCNQbugEI9Rreu0W",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712804/harry5_sxlbtt.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712844/harry5_lb8mfz.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1GLtEbWuhoNYvVN2sGL9_-AwptuK8QkR6",
-      "https://drive.google.com/uc?export=view&id=174NtTmGzDfazgW0z2ycooM0uNEMksx6c",
-      "https://drive.google.com/uc?export=view&id=1AmjwC6IWOIQf-UsCE7KBFOgRYf-Q8NTn",
-      "https://drive.google.com/uc?export=view&id=1Y4QXsDwPiQUgyJg7Z5QgFcLBEwupMQJS"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712908/harryV_1_qnhot2.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712908/harryV_2_rb90po.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712908/harryV_3_brjuzq.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712909/harryV_4_a7q55s.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/S8-SXEGMmi4",
     "video": "./videos/harry5.mp4",
@@ -460,7 +460,7 @@
   {
     "id": "harrypotter6",
     "title": "Harry Potter et le Price de sang-mêlé",
-    "logo": "https://drive.google.com/uc?export=view&id=19Zr8GVWMGuXjEzC3PQjNmx-H0uzBPaXZ",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712853/harry6_czvkti.png",
     "saga": "Harry Potter",
     "duration": "2h33",
     "year": 2009,
@@ -468,13 +468,13 @@
     "director": "David Yates",
     "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint, Alan Rickman",
     "synopsis": "Cette sixième année de Harry Potter commence par une dispute avec Draco Malfoy, en qui les forces des ténèbres placent désormais leurs espoirs. Harry enquête à la demande de Dumbledore sur le passé du professeur Slughorn, ancien enseignant de Voldemort. Entré dans son cercle intime, Harry se rapproche du but.",
-    "image": "./img/affiches/Harry6.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1lq9qFHZ7YnRFmgaIN-VyNiiObH0jeHnR",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712805/harry6_tv30zz.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712861/harry6_hn5hn9.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1TisdaGHVFPOYlHLrVQiPoRaXrB_zTU5C",
-      "https://drive.google.com/uc?export=view&id=145FR5Ckxs0tTeWKbwUAcu7DeQs9Um3_L",
-      "https://drive.google.com/uc?export=view&id=1EPvi683hE1YLY4GMpxxLV9z6ZTGWBqka",
-      "https://drive.google.com/uc?export=view&id=1Kqn9ETSJxJmx6-2V8NNyKZIxjysfFKGG"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712907/harryVI_1_wuwano.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712907/harryVI_2_oetybs.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712907/harryVI_3_uiozdh.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712908/harryVI_4_a9ttbj.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/yb-VYG3x5E8",
     "video": "./videos/harry6.mp4",
@@ -483,7 +483,7 @@
   {
     "id": "harrypotter7",
     "title": "Harry Potter et les Reliques de la Mort, partie 1",
-    "logo": "https://drive.google.com/uc?export=view&id=1HjxWeKMVBAonb5rQE_Qgspqj3ALCAQjQ",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712856/harry7_yzpgbs.png",
     "saga": "Harry Potter",
     "duration": "2h26",
     "year": 2010,
@@ -491,13 +491,13 @@
     "director": "David Yates",
     "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint, Alan Rickman",
     "synopsis": "Sans la protection de leurs professeurs, Harry, Ron et Hermione ont pour mission de détruire les horcruxes, reliques de l'immortalité de Voldemort. Les mangemorts ont pris le contrôle du ministère de la Magie et de Poudlard et recherchent Harry. Aussi lui et ses amis se préparent pour la dernière confrontation.",
-    "image": "./img/affiches/Harry7.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1ihU0fh_ot0KrIa5N1OTLeaok4jl5rRaW",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712806/harry7_xpymyj.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712844/harry7_kfu7l3.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1QCYzUfwAPN7ORNTePy5KIysfBAZtkam1",
-      "https://drive.google.com/uc?export=view&id=147tM5l_JuDR4Xp0FrPUIxbFmW1-181pX",
-      "https://drive.google.com/uc?export=view&id=1_FR5bYRBKLvegDzQrTDKRs5hhSiJV7ox",
-      "https://drive.google.com/uc?export=view&id=1hrgIvCxzYKGM6oosjk-gmHxYV_0yJ6G0"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712906/harryVII_1_tuftxv.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712906/harryVII_2_wwdm9i.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712907/harryVII_3_imy0wg.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712907/harryVII_4_cq5dwe.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/HgZZsnleZJQ",
     "video": "./videos/harry7.mp4",
@@ -506,7 +506,7 @@
   {
     "id": "harrypotter8",
     "title": "Harry Potter et les Reliques de la Mort, partie 2",
-    "logo": "https://drive.google.com/uc?export=view&id=1BrGf6GWXx-QFZZdCGORElv8RgoM3vCtz",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712857/harry8_ig0hqa.png",
     "saga": "Harry Potter",
     "duration": "2h10",
     "year": 2011,
@@ -514,13 +514,13 @@
     "director": "David Yates",
     "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint, Alan Rickman",
     "synopsis": "La bataille entre les forces du bien et celles du mal du monde des magiciens dégénère en une guerre totale. Les enjeux n'ont jamais été si grands et personne n'est en sécurité. Mais c'est peut-être Harry Potter qui pourrait être appelé à faire le sacrifice ultime alors qu'il se rapproche de la confrontation tant attendue avec Lord Voldemort.",
-    "image": "./img/affiches/Harry8.jpg",
-    "bg": "https://drive.google.com/uc?export=view&id=1BO40YT2z_6TOADezZakil-NmTGcI1zuc",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712806/harry8_dkbp3l.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712844/harry8_t1z4uy.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1SawWWzESGozIdgUDd9uBfJyyiam4zk1e",
-      "https://drive.google.com/uc?export=view&id=1xJuOAu1ftuBIZY-yrUinBB7negxDEa_o",
-      "https://drive.google.com/uc?export=view&id=1oOq9HII0OMh5Rsq76DBU8Y7iQc0OS6U7",
-      "https://drive.google.com/uc?export=view&id=1VKmKoZn-IPMwzAQv5KGWmEpngNRUUnA4"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712905/harryVIII_1_ewdlrr.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712905/harryVIII_2_wzxail.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712905/harryVIII_3_rhpvcs.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712906/harryVIII_4_k7ymoh.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/aiaIfICU-Tk",
     "video": "./videos/harry8.mp4",
@@ -529,7 +529,7 @@
   {
     "id": "ironman",
     "title": "Iron Man",
-    "logo": "https://drive.google.com/uc?export=view&id=1P_nAiXkUG--ZwEPnp86gquCaZuv89viN",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712853/ironman_iuuq3w.png",
     "saga": "Marvel",
     "duration": "2h06",
     "release": "2008-04-30",
@@ -538,13 +538,13 @@
     "director": "Jon Favreau",
     "actors": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard, Jeff Bridges",
     "synopsis": "Alors qu'il fait l'essai d'une arme de son invention en Afghanistan, le milliardaire Tony Stark est capturé par des insurgés qui le forcent à travailler pour eux. Mais à leur insu, le scientifique crée pour lui-même une armure superpuissante au moyen de laquelle il s'évade et rentre aux États-Unis. Transformé par son aventure, il décide de mettre son génie et sa fortune au service du Bien.",
-    "image": "https://drive.google.com/uc?export=view&id=16Uzd-MFYwl3s3IGqGqoh4QpC_4TwXWV4",
-    "bg": "https://drive.google.com/uc?export=view&id=16Uzd-MFYwl3s3IGqGqoh4QpC_4TwXWV4",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712806/ironman_gki3iy.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712844/ironman_q2iila.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1dKA1xEPmekOyx-a__abSfH1dGEEih4hX",
-      "https://drive.google.com/uc?export=view&id=1T4P196e1M2SVNeE15nrnz6cJXwxIvd36",
-      "https://drive.google.com/uc?export=view&id=1VFu6BWxOxGEbsVzybWZR1FFA4GtTJMEY",
-      "https://drive.google.com/uc?export=view&id=1pHILItNuPM0vEI-FofAgUVZFrlzP0iJx"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712913/ironman_1_qxefq7.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712914/ironman_2_oopks0.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712914/ironman_3_abf6nr.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712914/ironman_4_agfkhn.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/rDCTb9Gp2qk",
     "note": "7.9/10"
@@ -552,7 +552,7 @@
   {
     "id": "hulk",
     "title": "L'Incroyable Hulk",
-    "logo": "https://drive.google.com/uc?export=view&id=1BsXEUHw37zxfol3BY489Ys7DztKfkT_t",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712853/hulk_xj0thc.png",
     "saga": "Marvel",
     "duration": "1h52",
     "release": "2008-07-23",
@@ -561,13 +561,13 @@
     "director": "Louis Leterrier",
     "actors": "Edward Norton, Liv Tyler, Tim Roth, William Hurt",
     "synopsis": "Tapi dans les bas-fonds de Sao Paulo, Bruce Banner tente désespérément de percer le secret de la maladie qui l'afflige. Repéré par l'armée américaine, qui entend dupliquer le modèle pour en faire une arme guerrière, il leur file entre les doigts et rentre aux États-Unis, où il espère mettre la main sur le protocole médical qui l'a rendu mutant et également revoir sa fiancée Betty, biologiste qu'il a blessée gravement lors de sa première mutation.",
-    "image": "https://drive.google.com/uc?export=view&id=1WMww8C4zX2ymYAY4HDrJbK5w5F3CSVBN",
-    "bg": "https://drive.google.com/uc?export=view&id=1WMww8C4zX2ymYAY4HDrJbK5w5F3CSVBN",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712806/hulk_rimkr7.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712861/hulk_xzbgzv.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1G6d1GK2KCYQ0Z5Sjj1CKuJmn608zyBX2",
-      "https://drive.google.com/uc?export=view&id=1w3iL1GZ8yGSAA3syXbeAMPugfepWpU0e",
-      "https://drive.google.com/uc?export=view&id=17Fuwdy_n-k71Wc6Skyp43de57kP6RIII",
-      "https://drive.google.com/uc?export=view&id=1yYysAIcct86FCUOw6xT5g-hf5BpdFASf"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712909/hulk_1_gm9spi.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712909/hulk_2_ohbfvq.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712909/hulk_3_h3g6rf.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712910/hulk_4_oziwkh.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/LCjTxK1B5Pg",
     "note": "6.6/10"
@@ -575,7 +575,7 @@
   {
     "id": "ironman2",
     "title": "Iron Man 2",
-    "logo": "https://drive.google.com/uc?export=view&id=1o77qJ6OXRpoKCV4uK-8LZn5SoTzePGaZ",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712854/ironman2_wdeiwc.png",
     "saga": "Marvel",
     "duration": "2h04",
     "release": "2010-04-28",
@@ -584,13 +584,13 @@
     "director": "Jon Favreau",
     "actors": "Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Mickey Rourke",
     "synopsis": "Le monde sait désormais que l'inventeur milliardaire Tony Stark et le super-héros Iron Man ne font qu'un. Cependant, malgré les pressions, Tony n'est pas disposé à divulguer les secrets de son armure, redoutant que l'information atterrisse dans de mauvaises mains. Avec Pepper Potts et James Rhodey Rhodes à ses côtés, Tony va forger de nouvelles alliances et affronter de nouvelles forces toutes-puissantes.",
-    "image": "https://drive.google.com/uc?export=view&id=1YIHvtmDw7dz7_BIWwsrYCobPdPDK7jIu",
-    "bg": "https://drive.google.com/uc?export=view&id=1YIHvtmDw7dz7_BIWwsrYCobPdPDK7jIu",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712806/ironman2_k3x6jx.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712859/ironman2_rtiqqe.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=17SQhk0cQvSm_RAM0UCC9FVxegLO4wG5b",
-      "https://drive.google.com/uc?export=view&id=17M0EYuP2KVILln8j7l5bNdCK2FoVXON3",
-      "https://drive.google.com/uc?export=view&id=1Cj5RKwRLSsJx0dYbIrZfg0PnmDnnLO-U",
-      "https://drive.google.com/uc?export=view&id=1SQ1rZHRDdB9hDfiVzNFjAuS-RwAnNWVx"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712911/ironman2_1_t7kibh.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712912/ironman2_2_r3e0up.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712912/ironman2_3_ykn7em.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712912/ironman2_4_cnse2u.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/SQnuLDnhB7g",
     "note": "6.9/10"
@@ -598,7 +598,7 @@
   {
     "id": "thor",
     "title": "Thor",
-    "logo": "https://drive.google.com/uc?export=view&id=1G38fGN6LiqyaimvCiTL19B7y-JMBuCT-",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712878/thor_uxnvmu.png",
     "saga": "Marvel",
     "duration": "1h55",
     "release": "2011-04-27",
@@ -607,13 +607,13 @@
     "director": "Kenneth Branagh",
     "actors": "Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins",
     "synopsis": "Le roi Odin règne avec sagesse sur son royaume. Une entente maintient la paix avec les Géants du monde glacé de Jotunheim. Les gestes irréfléchis du jeune Thor, pressenti pour prendre la place de son père sur le trône, mettent cependant en péril la paix fragile entre les deux peuples, ce qui pousse son père à le bannir sur Terre. Dépouillé de ses pouvoirs, Thor doit apprendre la véritable valeur d'un roi. Pendant ce temps, le demi-frère de Thor essaie de prendre possession du trône.",
-    "image": "https://drive.google.com/uc?export=view&id=1Ed2n0-80AAMbfIfquwEUk88Tl8900TMq",
-    "bg": "https://drive.google.com/uc?export=view&id=1Ed2n0-80AAMbfIfquwEUk88Tl8900TMq",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712817/thor_lvywzx.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712847/thor_no80zo.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1otqFsQYCZH0ajvX5OK4017e_74Pa2Rp-",
-      "https://drive.google.com/uc?export=view&id=1BbM1UG6SjHG9rhlsw9f4wVBruW1fUQst",
-      "https://drive.google.com/uc?export=view&id=165-CqGOiv2a-HxrZlevoXNsTjFbKuGOd",
-      "https://drive.google.com/uc?export=view&id=1huEArCfgOmZXFybGhl3fRyigvbZNTLJ_"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712943/thor_1_ngqgnl.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712943/thor_2_qfzeka.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712943/thor_3_pvygd2.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712944/thor_4_cq81ff.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/pzT3yeV9lT4",
     "note": "7.0/10"
@@ -621,22 +621,22 @@
   {
     "id": "captainamerica",
     "title": "Captain America : First Avenger",
-    "logo": "https://drive.google.com/uc?export=view&id=1MaAW6EjmYur26m1dHjR-N9Q7n2fOhybq",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712851/captain1_hpbqq3.png",
     "saga": "Marvel",
     "duration": "2h04",
-    "release": "2016-08-17",
+    "release": "2011-08-17",
     "year": 2011,
     "genre": "Super-héros",
     "director": "Joe Johnston",
     "actors": "Chris Evans, Hugo Weaving, Hayley Atwell,Stanley Tucci",
     "synopsis": "1941. La Seconde Guerre mondiale fait rage. Après avoir tenté vainement de s'engager dans l'armée pour se battre aux côtés des Alliés, Steve Rogers, frêle et timide, se porte volontaire pour participer à un programme expérimental qui va le transformer en un super soldat connu sous le nom de Captain America. Sous le commandement du colonel Chester Phillips, il s'apprête à affronter l'organisation scientifique secrète des nazis, aux côtés de Bucky Barnes et Peggy Carter.",
-    "image": "https://drive.google.com/uc?export=view&id=16YDRebtkubd_z7QxgatFByxNjf5pfgKi",
-    "bg": "https://drive.google.com/uc?export=view&id=16YDRebtkubd_z7QxgatFByxNjf5pfgKi",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712801/captain1_thsqob.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712865/captain1_cdodtf.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1buF2-Z6WkY9kb97PWjZzV5-RlCeOq8Dh",
-      "https://drive.google.com/uc?export=view&id=1bv0hL4oHUTizsTpQbDzjDcnFxJlldZ5d",
-      "https://drive.google.com/uc?export=view&id=1nX_TPf1rg1dQLFwpinYjIYILyc_88sgD",
-      "https://drive.google.com/uc?export=view&id=1I0mqeHsAnG5hgtqX2BktCsKBaahpjBYb"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712891/captain1_1_jodeyw.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712891/captain1_2_fhqspt.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712891/captain1_3_cfvczf.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712892/captain1_4_uxxwn1.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/jF1IHPba2Bk",
     "note": "6.9/10"
@@ -644,7 +644,7 @@
   {
     "id": "avengers",
     "title": "Avengers",
-    "logo": "https://drive.google.com/uc?export=view&id=1VlknQcOwXfj7ZeQQvvx5j0lWQOywiMSf",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712857/avengers1_pa0r5d.png",
     "saga": "Marvel",
     "duration": "2h23",
     "release": "2012-04-25",
@@ -653,13 +653,13 @@
     "director": "Joss Whedon",
     "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
     "synopsis": "Quand un ennemi inattendu fait surface pour menacer la sécurité et l'équilibre mondial, Nick Fury, directeur de l'agence internationale pour le maintien de la paix, connue sous le nom du S.H.I.E.L.D., doit former une équipe pour éviter une catastrophe mondiale imminente. Un effort de recrutement à l'échelle mondiale est mis en place, pour finalement réunir l'équipe de super héros de rêve, dont Iron Man, l'incroyable Hulk, Thor, Captain America, Hawkeye et Black Widow.",
-    "image": "https://drive.google.com/uc?export=view&id=1bU0gtF0zFyb9FD6ShuqrgnvoXjz0tBVZ",
-    "bg": "https://drive.google.com/uc?export=view&id=1bU0gtF0zFyb9FD6ShuqrgnvoXjz0tBVZ",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712799/avengers1_yegngb.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712861/avengers1_u8kpuk.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1ruvnbtFmbCffEXDkG_ii4PqXFhn-N5Bk",
-      "https://drive.google.com/uc?export=view&id=1a-jv3ell706Hn2wp38zRvn0agVirhYm1",
-      "https://drive.google.com/uc?export=view&id=1pUF2o8_gbjaUNOJi4qSdyRt45RM6b_uA",
-      "https://drive.google.com/uc?export=view&id=1WdOHj4vEO7GvDpaV7BN18sr9XNvheNRA"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712883/avengers1_1_ycdtd5.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712883/avengers1_2_t4w5vr.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712883/avengers1_3_wvjcmh.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712884/avengers1_4_rvzwzx.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/b-kTeJhHOhc",
     "note": "8.0/10"
@@ -667,7 +667,7 @@
   {
     "id": "ironman3",
     "title": "Iron Man 3",
-    "logo": "https://drive.google.com/uc?export=view&id=14XijvF03zN0c9BZpYvdu2OTZpPAA8DYw",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712854/ironman3_y3cwdx.png",
     "saga": "Marvel",
     "duration": "2h10",
     "release": "2013-04-24",
@@ -676,13 +676,13 @@
     "director": "Shane Black",
     "actors": "Robert Downey Jr., Gwyneth Paltrow, Guy Pearce, Don Cheadle",
     "synopsis": "Tony Stark, alias Iron Man, mène une vie confortable aux côtés de sa compagne, Pepper. Cependant, il se retrouve confronté au Mandarin, chef d'une organisation terroriste, qui détruit sa maison et tout son univers. Tony Stark part alors à la recherche de Pepper, disparue, et cherche à se venger. Démuni, il ne peut compter que sur son ingéniosité, ses multiples inventions et son instinct de survie pour protéger ses proches.",
-    "image": "https://drive.google.com/uc?export=view&id=1GBazQPA3retNrajoiiXdCJ5OsiAtZE6X",
-    "bg": "https://drive.google.com/uc?export=view&id=1GBazQPA3retNrajoiiXdCJ5OsiAtZE6X",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712807/ironman3_imbmhi.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712845/ironman3_x1qmtd.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1q8Aqq1LDnHxIAgTwVVHiY3EKT2nXzNfv",
-      "https://drive.google.com/uc?export=view&id=17sAqWl9Jo9C8pxio4Zv5BfaXJJtkT7by",
-      "https://drive.google.com/uc?export=view&id=10R-YcKfzTLtxZO1zXJx9k_RC9vf5hUb0",
-      "https://drive.google.com/uc?export=view&id=1_KiNLuIA9H5mijtK0LjRxILZByTeVSEg"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712912/ironman3_1_stxpak.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712913/ironman3_2_fz2m7v.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712913/ironman3_3_xypj0i.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712913/ironman3_4_fik5zz.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/wnEr73Rq3Ac",
     "note": "7.1/10"
@@ -690,7 +690,7 @@
   {
     "id": "thor2",
     "title": "Thor : le Monde des ténèbres",
-    "logo": "https://drive.google.com/uc?export=view&id=1o5T2g0cix1uWRdNFqeFBfC47d2l55h4j",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712879/thor2_zbafte.png",
     "saga": "Marvel",
     "duration": "1h52",
     "release": "2013-10-30",
@@ -699,13 +699,13 @@
     "director": "Alan Taylor",
     "actors": "Chris Hemsworth, Natalie Portman, Tom Hiddleston, Christopher Eccleston",
     "synopsis": "Alors que sur Terre, l'astrophysicienne Jane Foster, grand amour de Thor, trouve par hasard une substance mystérieuse, l'Éther, que beaucoup croyaient perdue depuis longtemps, Thor part délivrer son frère adoptif, Loki, dans sa prison d'Asgard, car il a besoin de son aide. En effet, Malekith, un elfe noir jadis vaincu par Odin et les siens est de retour.",
-    "image": "https://drive.google.com/uc?export=view&id=1MoDXV4VQ7T5c3tU-C8cawqWmfD0lKPL3",
-    "bg": "https://drive.google.com/uc?export=view&id=1MoDXV4VQ7T5c3tU-C8cawqWmfD0lKPL3",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712817/thor2_krkmcx.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712848/thor2_celucj.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1a45jr7wGR8k4WYJOr1TXxtmDCbEIPwib",
-      "https://drive.google.com/uc?export=view&id=1JK54u2CfB1opwa6u2_xSMSQ37dydSbpv",
-      "https://drive.google.com/uc?export=view&id=1-LwPaU8QnerKnW0mbj-8CpZISry11Ttp",
-      "https://drive.google.com/uc?export=view&id=12nGwX71se91hqaJqfM8WxAg7Mp7RyCuW"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712941/thor2_1_pc0bni.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712941/thor2_2_xdst6q.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712941/thor2_3_jmejjv.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712941/thor2_4_f8tbcf.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/uq4OFEwflnI",
     "note": "6.7/10"
@@ -713,7 +713,7 @@
   {
     "id": "captain2",
     "title": "Captain America : Le Soldat de l'hiver",
-    "logo": "https://drive.google.com/uc?export=view&id=1JNGxRFcI1wG4s8zq4Xx3RICUAT0_-GJ_",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712851/captain2_c03rik.png",
     "saga": "Marvel",
     "duration": "2h16",
     "release": "2014-03-26",
@@ -722,13 +722,13 @@
     "director": "Anthony et Joe Russo",
     "actors": "Chris Evans, Samuel L. Jackson, Scarlett Johansson, Sebastian Stan",
     "synopsis": "Steve Rogers, plus connu sous le nom de Captain America, s'est adapté tant bien que mal à son nouvel environnement, et poursuit ses missions en tant qu'agent du S.H.I.E.L.D., l'agence militaire chargée d'assurer l'ordre international. Mais une organisation secrète aux desseins maléfiques a réussi à infiltrer le S.H.I.E.L.D. qu'elle gangrène de l'intérieur.",
-    "image": "https://drive.google.com/uc?export=view&id=1ugPZ88GrhivKNeIAqPL9QkL1nNFavpeC",
-    "bg": "https://drive.google.com/uc?export=view&id=1ugPZ88GrhivKNeIAqPL9QkL1nNFavpeC",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712801/captain2_mmulo1.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712841/captain2_y2lxfj.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1zlOTKnbn0uYEN2Q4gIM6QI_N-BpBzqU9",
-      "https://drive.google.com/uc?export=view&id=1qXeTzDWELTQvwvTTAFVYavgfpnHtdo7P",
-      "https://drive.google.com/uc?export=view&id=14tHjgJhp9A_FrseQhxTq03RrHDu6W_BS",
-      "https://drive.google.com/uc?export=view&id=1scArdS9_JP7MdIDvx4frmMhaDThtaXGY"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712892/captain2_1_vlvh1d.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712892/captain2_2_jn1o6x.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712892/captain2_3_namrpj.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712893/captain2_4_ahibk7.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/9W6HwKdexNY",
     "note": "7.7/10"
@@ -736,7 +736,7 @@
   {
     "id": "gardiensgalaxie1",
     "title": "Les Gardiens de la Galaxie",
-    "logo": "https://drive.google.com/uc?export=view&id=1mNTNlnf7yEWhg44DAdYh7Wy6AoUxs-jj",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712858/gardiensg1_gbwfu1.png",
     "saga": "Marvel",
     "duration": "2h01",
     "release": "2014-08-13",
@@ -745,13 +745,13 @@
     "director": "James Gunn",
     "actors": "Chris Pratt, Zoë Saldaña, Dave Bautista, Vin Diesel (voix)",
     "synopsis": "Peter Quill est un aventurier traqué par tous les chasseurs de primes pour avoir volé un mystérieux globe convoité par le puissant Ronan, dont les agissements menacent l'univers tout entier. Lorsqu'il découvre le véritable pouvoir de ce globe et la menace qui pèse sur la galaxie, il conclut une alliance fragile avec quatre extraterrestres disparates.",
-    "image": "https://drive.google.com/uc?export=view&id=1CWlfK8ALGtZcpCti7e8TxZggrSqw8HKE",
-    "bg": "https://drive.google.com/uc?export=view&id=1CWlfK8ALGtZcpCti7e8TxZggrSqw8HKE",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712803/gardiensg1_omeae1.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712843/gardiensg1_fhsvge.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1-Nfh3yiGDTrWN40PyZAj82ewl1-DblJD",
-      "https://drive.google.com/uc?export=view&id=1NISF_SP6vrZDyWQKnEeKL_F6Bji-7PTE",
-      "https://drive.google.com/uc?export=view&id=1-z0Z_BqnkRWF0xUt3c41Xty4EzSGX0OO",
-      "https://drive.google.com/uc?export=view&id=1djfGlXZrKOUQNEKPmqX_44xys0e3eAEB"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712898/gardiensg1_1_bj7c0b.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712899/gardiensg1_2_pb4rnm.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712900/gardiensg1_3_zrh6i2.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712900/gardiensg1_4_p5y3ss.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/HbB1LC_QyK0",
     "note": "8.0/10"
@@ -759,7 +759,7 @@
   {
     "id": "avengers2",
     "title": "Avengers : l'Ère d'Ultron",
-    "logo": "https://drive.google.com/uc?export=view&id=1i0wyaip9XQc_bnrg_9mJGnMaSkokvQw2",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712849/avengers2_dym3w1.png",
     "saga": "Marvel",
     "duration": "2h23",
     "release": "2015-04-22",
@@ -768,13 +768,13 @@
     "director": "Joss Whedon",
     "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
     "synopsis": "Alors qu'il tente de récupérer le sceptre de Loki avec l'aide de ses camarades Avengers, Tony Stark découvre que Strucker avait mis au point une intelligence artificielle révolutionnaire, plus puissante encore que Jarvis. Strucker, mis hors d'état de nuire, et le sceptre récupéré, Stark conçoit bientôt un projet insensé : relancer son programme de maintien de la paix, jusque-là en sommeil, grâce à cette conscience robotisée ultra-puissante.",
-    "image": "https://drive.google.com/uc?export=view&id=16ahfgPI0oS4n9GtsZVSwcgp1avaHWcmy",
-    "bg": "https://drive.google.com/uc?export=view&id=16ahfgPI0oS4n9GtsZVSwcgp1avaHWcmy",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712800/avengers2_fvfvkf.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712858/avengers2_hjyt71.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1bmwRN3vB6NILoGyzynWsWC6pY2CD3fsD",
-      "https://drive.google.com/uc?export=view&id=1sX7XbWP1hqgVuqJK0K6NEIIKYwSXmmog",
-      "https://drive.google.com/uc?export=view&id=1OpewnnZpQ-gyUcN6uC5Vz_tumzTPfGkh",
-      "https://drive.google.com/uc?export=view&id=1t2vtAR4XMY7Tllf8OAvA3za46ZF4iDc9"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712884/avengers2_1_rn8nqr.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712885/avengers2_2_hajviv.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712885/avengers2_3_awxwgn.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712885/avengers2_4_w6mubz.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/ANbZ-zJ7Ig8",
     "note": "7.3/10"
@@ -782,7 +782,7 @@
   {
     "id": "antman",
     "title": "Ant-Man",
-    "logo": "https://drive.google.com/uc?export=view&id=16pla0QS2ZxaQ3qM_AB6GjXqMvHyJkDlB",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712860/antman_j99q6f.png",
     "saga": "Marvel",
     "duration": "1h58",
     "release": "2015-07-14",
@@ -791,13 +791,13 @@
     "director": "Peyton Reed",
     "actors": "Paul Rudd, Evangeline Lilly, Michael Douglas, Corey Stoll",
     "synopsis": "Doté d'une capacité étonnante, celle de rétrécir considérablement sa taille tout en multipliant sa force, Scott Lang, voleur professionnel, doit accepter le héros qui sommeille en lui afin de venir en aide à son mentor, le docteur Hank Pym, et ainsi protéger les secrets technologiques que renferme son costume. Face à une nouvelle génération d'opposants, Lang et Pym doivent mettre au point, et réussir un audacieux cambriolage qui pourrait sauver le monde.",
-    "image": "https://drive.google.com/uc?export=view&id=1fvu20CtF8WrqxtQYPNlYfpp2F1G5dhpO",
-    "bg": "https://drive.google.com/uc?export=view&id=1fvu20CtF8WrqxtQYPNlYfpp2F1G5dhpO",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712799/antman_mmcgf5.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712817/antman_mrmv4p.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1D890LIhTcFm2OXxZgdPzx_pPQncjeEic",
-      "https://drive.google.com/uc?export=view&id=1dFi9ClHtU-z7g93bEzi9ucjwJDcXIUz4",
-      "https://drive.google.com/uc?export=view&id=1ACPblGzhEqFWJz5ZKVkv1uO1f_5PNtxj",
-      "https://drive.google.com/uc?export=view&id=1px2srAf555PLtXgoaKfuihW6WYI68PiA"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712882/antman_1_k7accs.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712883/antman_2_l3turt.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712883/antman_3_mlopy6.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712883/antman_4_xhajau.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/_mWjqYXA59E",
     "note": "7.2/10"
@@ -805,7 +805,7 @@
   {
     "id": "captain3",
     "title": "Captain America: Civil War",
-    "logo": "https://drive.google.com/uc?export=view&id=1dDeCghoTgT1yDBmjjC0kUIR2QXWyAwnX",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712866/captain3_q1zcng.png",
     "saga": "Marvel",
     "duration": "2h28",
     "release": "2016-04-27",
@@ -813,13 +813,13 @@
     "genre": "Super-héros",
     "director": "Anthony et Joe Russo",
     "actors": "Steve Rogers est désormais à la tête des Avengers, dont la mission est de protéger l'humanité. À la suite d'une de leurs interventions qui a causé d'importants dégâts collatéraux, le gouvernement décide de mettre en place un organisme de commandement et de supervision. Cette nouvelle donne provoque une scission au sein de l'équipe: Steve Rogers reste attaché à sa liberté de s'engager sans ingérence gouvernementale, tandis que d'autres se rangent derrière Tony Stark.",
-    "image": "https://drive.google.com/uc?export=view&id=1-MKRqablEZFQirIS3e9yOcJ0vBAoJXC4",
-    "bg": "https://drive.google.com/uc?export=view&id=1-MKRqablEZFQirIS3e9yOcJ0vBAoJXC4",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712801/captain3_jyurcn.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712866/captain3_jiwupw.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1ZyXiAchvCRdJyrEDlv3cLRr3yvSYO0qb",
-      "https://drive.google.com/uc?export=view&id=1jK6XW0YfCORs9qgw75EqIu6Ls3cqUr9h",
-      "https://drive.google.com/uc?export=view&id=1marMkzRSavgby41ejfAVCJtY_6GKZv0m",
-      "https://drive.google.com/uc?export=view&id=1My4hdMI_Y3s4WONN5w-bLyP69tpKhh6-"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712893/captain3_1_l4tbwt.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712893/captain3_2_f2veve.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712893/captain3_3_xmdgud.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712893/captain3_4_vjfyhx.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/fuIIGDjEj8Q",
     "note": "7.8/10"
@@ -827,7 +827,7 @@
   {
     "id": "doctorstrange",
     "title": "Doctor Strange",
-    "logo": "https://drive.google.com/uc?export=view&id=1ENGbDlVsRkplaLaJOwgvOEbNPn_JoYhU",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712856/dstrange_vxkrg3.png",
     "saga": "Marvel",
     "duration": "1h55",
     "release": "2016-10-26",
@@ -835,13 +835,13 @@
     "genre": "Super-héros",
     "director": "Scott Derrickson",
     "actors": "Doctor Strange suit l'histoire du Docteur Stephen Strange, talentueux neurochirurgien qui, après un tragique accident de voiture, doit mettre son égo de côté et apprendre les secrets d'un monde caché de mysticisme et de dimensions alternatives. Basé à New York, Doctor Strange doit jouer les intermédiaires entre le monde réel et ce qui se trouve au-delà, en utlisant un vaste éventail d'aptitudes métaphysiques et d'artefacts pour protéger le Marvel Cinematic Universe.",
-    "image": "https://drive.google.com/uc?export=view&id=16qrCqFeopk-IFEUorSwLo42OL4yq9QIt",
-    "bg": "https://drive.google.com/uc?export=view&id=16qrCqFeopk-IFEUorSwLo42OL4yq9QIt",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712802/dstrange_jockjv.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712868/dstrange_nhc6zg.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1wMElqYtej8DzyyB6CLLcH2xKiB8bl-kW",
-      "https://drive.google.com/uc?export=view&id=1B9KyrxOc8PGfJpUZy4EJS3wOfvZueQ6a",
-      "https://drive.google.com/uc?export=view&id=1vrh_LLIFLN6z-RNLpe0Y4cryC5MH4Tie",
-      "https://drive.google.com/uc?export=view&id=1q45WWUt8MTK0L8u4jiuMrcLN6mJIEJxN"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712896/dstrange_1_ehbfsn.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712896/dstrange_2_th89jr.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712897/dstrange_3_wyjc4k.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712897/dstrange_4_t9hnmr.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/r849NGQZqbA",
     "note": "7.5/10"
@@ -849,7 +849,7 @@
   {
     "id": "gardiensgalaxie2",
     "title": "Les Gardiens de la Galaxie Vol. 2",
-    "logo": "https://drive.google.com/uc?export=view&id=1rVAJeDKLc47S30_6U3xaXtPQVinNCAVq",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712852/gardiensg2_vkpw04.png",
     "saga": "Marvel",
     "duration": "2h16",
     "release": "2017-04-26",
@@ -858,13 +858,13 @@
     "director": "James Gunn",
     "actors": "Chris Pratt, Zoë Saldaña, Dave Bautista, Vin Diesel (voix)",
     "synopsis": "Musicalement accompagné de la 'Awesome Mixtape 2', ce deuxième volet propose à nouveau les aventures de l'équipe alors qu'elle traverse les confins du cosmos. Les gardiens doivent combattre pour rester unis alors qu'ils découvrent les mystères de la filiation de Peter Quill. Les vieux ennemis vont devenir de nouveaux alliés et des personnages bien connus des fans de comics vont venir aider nos héros et continuer à étendre l'univers Marvel.",
-    "image": "https://drive.google.com/uc?export=view&id=1iCFAiddBDh29nbJkFPUpr4ckPEbS5U1H",
-    "bg": "https://drive.google.com/uc?export=view&id=1iCFAiddBDh29nbJkFPUpr4ckPEbS5U1H",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712803/gardiensg2_c2me7v.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712866/gardiensg2_kjay6h.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1q-3EbZhfOm8A7JNyPEUDkqWzAIFKE5mc",
-      "https://drive.google.com/uc?export=view&id=106uEj8CnFBEiD1SJF8UsjKLAdRG8M0i4",
-      "https://drive.google.com/uc?export=view&id=1iM4Z4c71d-uqqF_3pU9dt6cxpcEBo32Y",
-      "https://drive.google.com/uc?export=view&id=1Jqt8bD3QIAuTHYE-4L_786il2Otv2I05"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712900/gardiensg2_1_umxrls.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712900/gardiensg2_2_iecfwi.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712900/gardiensg2_3_iew15j.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712900/gardiensg2_4_vyn4bs.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/qe6EjVKba9Q",
     "note": "7.6/10"
@@ -872,7 +872,7 @@
   {
     "id": "spiderman1",
     "title": "Spider-Man : Homecoming",
-    "logo": "https://drive.google.com/uc?export=view&id=1s8jhF5WdhkI-17qDaJob9PLXOdGKhuGD",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712875/spiderman1_q0jhfl.png",
     "saga": "Marvel",
     "duration": "2h13",
     "release": "2017-07-12",
@@ -881,13 +881,13 @@
     "director": "Jon Watts",
     "actors": "Tom Holland, Kevin Costner, Zendaya, Jon Favreau",
     "synopsis": "Après ses spectaculaires débuts avec les Avengers, le jeune Peter Parker découvre peu à peu sa nouvelle identité, celle de Spider-Man, le superhéros lanceur de toile. Galvanisé par ses expériences précédentes, Peter rentre chez lui auprès de sa tante May, sous l'oeil attentif de son nouveau mentor, Tony Stark. L'apparition d'un nouvel ennemi, le Vautour, va mettre en danger tout ce qui compte pour lui.",
-    "image": "https://drive.google.com/uc?export=view&id=1emZUJOpdFAXPBRnYiWADBbziNKYIaBOn",
-    "bg": "https://drive.google.com/uc?export=view&id=1emZUJOpdFAXPBRnYiWADBbziNKYIaBOn",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712812/spiderman1_iesfvv.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712871/spiderman1_m5uehi.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=187AgXyKk2RbuLf5s247Ydj9wsKe4xe8V",
-      "https://drive.google.com/uc?export=view&id=1Ust6MZkyQdimkOf_4-7_GRwpsnZ5bx1v",
-      "https://drive.google.com/uc?export=view&id=1CAghCvpJsf48cFdEK6JDCKKJH1i12ePd",
-      "https://drive.google.com/uc?export=view&id=1Z5hXcbNmraGEHQvd24RSs7JszCCLteqv"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712928/spiderman1_1_bshyec.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712928/spiderman1_2_lq10fg.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712928/spiderman1_3_kedd4v.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712928/spiderman1_4_jn994a.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/BmbfD7F3BoQ",
     "note": "7.4/10"
@@ -895,7 +895,7 @@
   {
     "id": "thor3",
     "title": "Thor : Ragnarok",
-    "logo": "https://drive.google.com/uc?export=view&id=1GYpJIm-PFtV_6YhLM0yEoy_q0jBWz_LE",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712879/thor3_simgsl.png",
     "saga": "Marvel",
     "duration": "2h10",
     "release": "2017-10-25",
@@ -904,13 +904,13 @@
     "director": "Taika Waititi",
     "actors": "Chris Hemsworth, Mark Ruffalo, Tom Hiddleston, Cate Blanchett",
     "synopsis": "Privé de son puissant marteau, Thor est retenu prisonnier sur une lointaine planète aux confins de l'univers. Pour sauver Asgard, il va devoir lutter contre le temps afin d'empêcher l'impitoyable Hela d'accomplir le Ragnarök, ou la destruction de son monde et la fin de la civilisation asgardienne. Pour y parvenir, il va d'abord devoir mener un combat titanesque de gladiateurs contre celui qui était autrefois son allié au sein des Avengers : l'incroyable Hulk.",
-    "image": "https://drive.google.com/uc?export=view&id=1bwyBNm3w-dhkI-XQS3JHhZsOsJ3ckxAY",
-    "bg": "https://drive.google.com/uc?export=view&id=1bwyBNm3w-dhkI-XQS3JHhZsOsJ3ckxAY",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712817/thor3_rnrezv.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712864/thor3_cw6msd.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1HJjQ7iN8IUM7PK7ak1-Hy8vpvrTn3ehi",
-      "https://drive.google.com/uc?export=view&id=1gjg06nnlOv_QPVh0-WGNBewB0o7dVU64",
-      "https://drive.google.com/uc?export=view&id=1U75e2MnSX_bKjpejfBqqrq7gtbXt8pKZ",
-      "https://drive.google.com/uc?export=view&id=1M1SZzSRakPppC7GbM-I4Fjdb6Qm6FPUd"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712941/thor3_1_xkq9ku.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712942/thor3_2_e2mqry.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712942/thor3_3_ckznao.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712942/thor3_4_s4td5w.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/RtG6scyBIeM",
     "note": "7.9/10"
@@ -918,7 +918,7 @@
   {
     "id": "blackpanther",
     "title": "Black Panther",
-    "logo": "https://drive.google.com/uc?export=view&id=1q3zKcl_ZqQJNe25vxF7gnDjwAPaFYJ9y",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712850/bpanther_pnkleq.png",
     "saga": "Marvel",
     "duration": "2h14",
     "release": "2018-02-14",
@@ -927,13 +927,13 @@
     "director": "Ryan Coogler",
     "actors": "Chris Hemsworth, Mark Ruffalo, Tom Hiddleston, Cate Blanchett",
     "synopsis": "Après la mort de son père, T'Challa revient chez lui prendre sa place sur le trône du Wakanda, une nation africaine technologiquement très avancée. Mais lorsqu'un vieil ennemi resurgit, le courage de T'Challa est mis à rude épreuve, aussi bien en tant que souverain qu'en tant que Panthère Noire. Il se retrouve entraîné dans un conflit qui menace non seulement le destin du Wakanda, mais celui du monde entier.",
-    "image": "https://drive.google.com/uc?export=view&id=1lDsJptE4MqWXYbed9D9P73vjqrjALEof",
-    "bg": "https://drive.google.com/uc?export=view&id=1lDsJptE4MqWXYbed9D9P73vjqrjALEof",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712800/bpanther_bgpths.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712869/bpanther_catwor.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1Ww_SIQkvAmtuzotDq6rwjQ9OKPcpGoJ2",
-      "https://drive.google.com/uc?export=view&id=1snhRBO1pq52y7rtHxPVgbh0-_fG3FX-Z",
-      "https://drive.google.com/uc?export=view&id=1qQgsbm03WbzIflIySgbrMWbTvjT_zaQ1",
-      "https://drive.google.com/uc?export=view&id=1UOjUibZGlh24FDP5x7HmK1hH_IeedPgW"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712889/bpanther_1_xvwuz0.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712889/bpanther_2_jnavyi.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712890/bpanther_3_s1tgfl.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712890/bpanther_4_nskxde.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/8RQpN5kQslw",
     "note": "7.3/10"
@@ -941,7 +941,7 @@
   {
     "id": "avengers3",
     "title": "Avengers : Infinity War",
-    "logo": "https://drive.google.com/uc?export=view&id=1uh25Lm1POqk8tNDRp1eevx19iklI-qz5",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712860/avengers3_p3hiod.png",
     "saga": "Marvel",
     "duration": "2h29",
     "release": "2018-04-25",
@@ -950,13 +950,13 @@
     "director": "Anthony et Joe Russo",
     "actors": "Robert Dawney Jr., Chris Evans, Chris Hemsworth, Josh Brolin",
     "synopsis": "Alors que les Avengers et leurs alliés ont continué de protéger le monde face à des menaces bien trop grandes pour être combattues par un héros seul, un nouveau danger est venu de l'espace : Thanos. Despote craint dans tout l'univers, Thanos a pour objectif de recueillir les six Pierres d'Infinité, des artefacts parmi les plus puissants de l'univers, et de les utiliser afin d'imposer sa volonté sur toute la réalité. Tous les combats que les Avengers ont menés culminent dans cette bataille.",
-    "image": "https://drive.google.com/uc?export=view&id=1yLurPxjFU0J4nn9w3lVfgrD8QRGlKN4V",
-    "bg": "https://drive.google.com/uc?export=view&id=1yLurPxjFU0J4nn9w3lVfgrD8QRGlKN4V",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712800/avengers3_akxugb.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712864/avengers3_o8j8ok.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1044zIuHcXEbTmhckXiFFemb7vjRBgcgd",
-      "https://drive.google.com/uc?export=view&id=1bTZzK5kudJRrn_KRJTRxgopLJkvGIKRI",
-      "https://drive.google.com/uc?export=view&id=13q9qbDL5Q4Rhcbr_LjBcq9uQMuaJW6bQ",
-      "https://drive.google.com/uc?export=view&id=1x2QeAAEuS4GX-O_velS9qnCTJD9MItSz"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712885/avengers3_1_sgeybn.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712885/avengers3_2_spvrcf.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712885/avengers3_3_rjtnwo.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712885/avengers3_4_m7zice.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/eIWs2IUr3Vs",
     "note": "8.4/10"
@@ -964,7 +964,7 @@
   {
     "id": "antman2",
     "title": "Antm-Man et la Guêpe",
-    "logo": "https://drive.google.com/uc?export=view&id=1CsK_aAZtr0H8wLtOGUftaFTwJ4dgMrxU",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712855/antman2_dobsf0.png",
     "saga": "Marvel",
     "duration": "1h58",
     "release": "2018-07-18",
@@ -973,13 +973,13 @@
     "director": "Peyton Reed",
     "actors": "Paul Rudd, Evangeline Lilly, Michael Peña, Walton Coggins",
     "synopsis": "Après les événements survenus dans Captain America, Civil War, Scott Lang a bien du mal à concilier sa vie de super-héros et ses responsabilités de père. Cependant, ses réflexions sur les conséquences de ses choix tournent court lorsque Hope van Dyne et le Dr Hank Pym lui confient une nouvelle mission urgente. Scott va devoir renfiler son costume et apprendre à se battre aux côtés de La Guêpe afin de faire la lumière sur des secrets enfouis de longue date.",
-    "image": "https://drive.google.com/uc?export=view&id=1jL4suU7woIzEeNVgLGb3gN_l5BcbNgV7",
-    "bg": "https://drive.google.com/uc?export=view&id=1jL4suU7woIzEeNVgLGb3gN_l5BcbNgV7",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712799/antman2_vgq82g.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712821/antman2_f3h1ea.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1CAT_lVw-hdfneQcByPZqAaNno465jUFh",
-      "https://drive.google.com/uc?export=view&id=1EaqLBb9ZkgxpFo-r1ipH5ZpHoFMemCsV",
-      "https://drive.google.com/uc?export=view&id=1-H5shEbAewkCYzLvgWuBxVu7cHEYJrpY",
-      "https://drive.google.com/uc?export=view&id=1CMKHU806UdJtWWtnYSsLsm2SuxlcOyYZ"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712881/antman2_1_eldvns.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712881/antman2_2_oieijr.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712881/antman2_3_u8s2vx.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712881/antman2_4_pvyn4x.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/A5jzpMR6rv4",
     "note": "7.0/10"
@@ -987,7 +987,7 @@
   {
     "id": "capmarvel",
     "title": "Captain Marvel",
-    "logo": "https://drive.google.com/uc?export=view&id=1uE7Dg5WA7Tkt407b8HfrNsPpmZuID-tC",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712850/capmarvel_dy9jtx.png",
     "saga": "Marvel",
     "duration": "2h03",
     "release": "2019-03-06",
@@ -996,13 +996,13 @@
     "director": "Ryan Fleck",
     "actors": "Brie Larson, Samuel L. Jackson, Ben Mendelsohn, Jude Law",
     "synopsis": "Captain Marvel se bat dans le camp des Kree aux côtés de son maître, Yon-Rogg. Des images d'un passé qu'elle a oublié refont surface lorsqu'elle se fait enlever par les Skrulls, qui tentent d'extirper certaines informations de son cerveau. Après une bagarre, elle atterrit sur Terre. Elle est accueillie par Nick Fury, qui la prend sous son aile. Ensemble, ils déterreront des secrets bien enfouis et comprendront que tout n'est pas toujours aussi simple qu'on se l'imagine.",
-    "image": "https://drive.google.com/uc?export=view&id=1cFGPLXyS3ajcQyjBwNWhDXRVQMPDgyPN",
-    "bg": "https://drive.google.com/uc?export=view&id=1cFGPLXyS3ajcQyjBwNWhDXRVQMPDgyPN",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712801/capmarvel_g0xmbs.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712871/capmarvel_w0ffv1.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1nTd1VrXIfD1-0Jg-2petsQZEh1oNS93O",
-      "https://drive.google.com/uc?export=view&id=1c3AQfkr7CH59AsA1beiWRH0jMu0_Ni9C",
-      "https://drive.google.com/uc?export=view&id=1RI8m3Xt8l7iQ7hkRjuP8ikEGm6zaYWQJ",
-      "https://drive.google.com/uc?export=view&id=1_Eym4cVYMNehJ-Xjul28TynslxgOhOck"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712890/capmarvel_1_p4soqv.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712890/capmarvel_2_kshivf.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712890/capmarvel_3_gilmpj.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712890/capmarvel_4_cxjwjz.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/rndLWLmwgeA",
     "note": "6.8/10"
@@ -1010,7 +1010,7 @@
   {
     "id": "avengers4",
     "title": "Avengers : Endgame",
-    "logo": "https://drive.google.com/uc?export=view&id=10_XBVrJkqb0T8A_spIffFZD6D0o6sBKx",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712850/avengers4_y9agn3.png",
     "saga": "Marvel",
     "duration": "3h01",
     "release": "2019-04-24",
@@ -1019,13 +1019,13 @@
     "director": "Anthony et Joe Russo",
     "actors": "Robert Dawney Jr., Chris Evans, Chris Hemsworth, Mark Ruffalo",
     "synopsis": "Le Titan Thanos, ayant réussi à s'approprier les six Pierres d'Infinité et à les réunir sur le Gantelet doré, a pu réaliser son objectif de pulvériser la moitié de la population de l'Univers. Cinq ans plus tard, Scott Lang, alias Ant-Man, parvient à s'échapper de la dimension subatomique où il était coincé. Il propose aux Avengers une solution pour faire revenir à la vie tous les êtres disparus, dont leurs alliés et coéquipiers : récupérer les Pierres d'Infinité dans le passé.",
-    "image": "https://drive.google.com/uc?export=view&id=19R4xFjdQQYNebAmILtDcD6_qKE9KrLH4",
-    "bg": "https://drive.google.com/uc?export=view&id=19R4xFjdQQYNebAmILtDcD6_qKE9KrLH4",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712800/avengers4_vcrzgz.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712863/avengers4_evlv1p.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1C0UEtcKh7JJW-8FfLZc0dOQpX3tyVu4R",
-      "https://drive.google.com/uc?export=view&id=1O_BSFMPJ4rZDB05stdQHrGB5uhpaYHHj",
-      "https://drive.google.com/uc?export=view&id=1nRRqZckxk_I1ZJfEmr4I0tEN6OVWy852",
-      "https://drive.google.com/uc?export=view&id=1txpYtPvFkITENq6y8nlLNGGjQaJy4Zln"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712885/avengers4_1_iqsrgl.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712886/avengers4_2_wbxjlf.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712887/avengers4_3_a3hw26.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712887/avengers4_4_qwguqx.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/wV-Q0o2OQjQ",
     "note": "8.4/10"
@@ -1033,7 +1033,7 @@
   {
     "id": "spiderman2",
     "title": "Spider-Man : Far From Home",
-    "logo": "https://drive.google.com/uc?export=view&id=1jeA9C8T-OXglmtSixPQ-lXJGQUbMMHf3",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712875/spiderman2_a3oyrs.png",
     "saga": "Marvel",
     "duration": "2h09",
     "release": "2019-07-03",
@@ -1042,13 +1042,13 @@
     "director": "Jon Watts",
     "actors": "Tom Holland, Jake Gyllenhaal, Samuel L. Jackson, Zendaya",
     "synopsis": "L'araignée sympa du quartier décide de rejoindre ses meilleurs amis Ned, MJ, et le reste de la bande pour des vacances en Europe. Cependant, le projet de Peter de laisser son costume de super-héros derrière lui pendant quelques semaines est rapidement compromis quand il accepte à contrecoeur d'aider Nick Fury à découvrir le mystère de plusieurs attaques de créatures, qui ravagent le continent !",
-    "image": "https://drive.google.com/uc?export=view&id=1F3nSW50oPDY7uVDqZ61xTdtZGA3bhn-g",
-    "bg": "https://drive.google.com/uc?export=view&id=1F3nSW50oPDY7uVDqZ61xTdtZGA3bhn-g",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712812/spiderman2_wwajmh.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712868/spiderman2_v5zyne.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1Fq6lFYLhSDW7bnn4qn0AHswVm6yEDpsA",
-      "https://drive.google.com/uc?export=view&id=170_MX2C1O5-OyioWqzQUrBtQZ7uXTXsA",
-      "https://drive.google.com/uc?export=view&id=10bHpH1wOxjOCrOgtEv4-9--ODZoyrZPi",
-      "https://drive.google.com/uc?export=view&id=1Mmgq2WV5c8SMc1hutypObJ8KXJSU8ZZ3"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712929/spiderman2_1_nacey8.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712929/spiderman2_2_an6sdo.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712929/spiderman2_3_lbkbnt.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712930/spiderman2_4_uzalcn.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/SFoCPkEfHEM",
     "note": "7.4/10"
@@ -1056,7 +1056,7 @@
   {
     "id": "blackwidow",
     "title": "Black Widow",
-    "logo": "https://drive.google.com/uc?export=view&id=1cFD8dc7MmYZDrX1DHR-EoYSKLYu2Ei3O",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712850/blackwidow_f0lffk.png",
     "saga": "Marvel",
     "duration": "2h13",
     "release": "2021-07-07",
@@ -1065,13 +1065,13 @@
     "director": "Cate Shortland",
     "actors": "Scarlett Johannson, Florence Pugh, David Harbour, Rachel Weisz",
     "synopsis": "Natasha Romanoff, alias Black Widow, voit resurgir la part la plus sombre de son passé pour faire face à une redoutable conspiration liée à sa vie d’autrefois. Poursuivie par une force qui ne reculera devant rien pour l’abattre, Natasha doit renouer avec ses activités d’espionne et avec des liens qui furent brisés, bien avant qu’elle ne rejoigne les Avengers.",
-    "image": "https://drive.google.com/uc?export=view&id=1jnCpsw5nXt22eEctNAUhfn_1NXShloDK",
-    "bg": "https://drive.google.com/uc?export=view&id=1jnCpsw5nXt22eEctNAUhfn_1NXShloDK",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712800/blackwidow_ctevaj.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712870/blackwidow_t047rl.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1jA0bHVxOZ31IORJoPNb5MCbIf5aQdBjr",
-      "https://drive.google.com/uc?export=view&id=1NBtvff2VUVJWAW9PnoSEsP3OPgckjoM3",
-      "https://drive.google.com/uc?export=view&id=1HPyEJSqh0J0M0RS-55pFbnYzAnMwzfO8",
-      "https://drive.google.com/uc?export=view&id=1xnARsAS30AhB1s0CJx4kNCYD299COHSm"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712887/blackwidow_1_stm9ee.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712887/blackwidow_2_dn63u5.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712887/blackwidow_3_axsnkv.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712888/blackwidow_4_vyca00.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/TL1mR5b16E0",
     "note": "6.6/10"
@@ -1079,7 +1079,7 @@
   {
     "id": "shangchi",
     "title": "Shang-Chi et la Légende des Dix Anneaux",
-    "logo": "https://drive.google.com/uc?export=view&id=1hB_CkU3PvYJB2qZJi7P_PLmXAJT6ZigQ",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712874/shangchi_osfujr.png",
     "saga": "Marvel",
     "duration": "2h11",
     "release": "2021-09-01",
@@ -1088,13 +1088,13 @@
     "director": "Destin Daniel Cretton",
     "actors": "Simu Liu, Tony Leung Chiu-Wai, Awkwafina, Ben Kingsley",
     "synopsis": "Shang-Chi va devoir affronter un passé qu’il pensait avoir laissé derrière lui lorsqu’il est pris dans la toile de la mystérieuse organisation des dix anneaux.",
-    "image": "https://drive.google.com/uc?export=view&id=1oemzQTnsiGy6oqVyUBkHeI2C4WHKxAhV",
-    "bg": "https://drive.google.com/uc?export=view&id=1oemzQTnsiGy6oqVyUBkHeI2C4WHKxAhV",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712812/shangchi_tuxvbr.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712870/shangchi_rjqqib.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1ugmTowj73Bmz3AHeYedeDoYMMX-_2L86",
-      "https://drive.google.com/uc?export=view&id=1Yq19n8RCBbpkXpxVyW3lWE64WaCQlLe4",
-      "https://drive.google.com/uc?export=view&id=16Q7mGLfmKXhkOG0-2Zls8x6v49oc2VzG",
-      "https://drive.google.com/uc?export=view&id=1_tA4GVipfwbHxFvP9CKzUfJkgHK5-8zZ"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712927/shangchi_1_ppv4vl.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712927/shangchi_2_tdtorq.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712928/shangchi_3_batbz7.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712928/shangchi_4_bmfdek.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/YQOsxQUxMWk",
     "note": "7.4/10"
@@ -1102,7 +1102,7 @@
   {
     "id": "eternels",
     "title": "Les Éternels",
-    "logo": "https://drive.google.com/uc?export=view&id=1GfXgeH7QgCP5tU47CGTGpkiMpeF03OsO",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712867/eternels_hvncdc.png",
     "saga": "Marvel",
     "duration": "2h36",
     "release": "2021-11-03",
@@ -1111,13 +1111,13 @@
     "director": "Chloé Zhao",
     "actors": "Gemma Chan, Richard Madden, Angelina Jolie, Salma Hayek",
     "synopsis": "Les Éternels, un groupe de héros venus des confins du cosmos, veillent sur la Terre depuis l’aube de l’humanité. La réapparition mystérieuse des Déviants, des créatures monstrueuses censées avoir disparu depuis des siècles, contraint les Éternels à se retrouver pour défendre une fois de plus l’humanité.",
-    "image": "https://drive.google.com/uc?export=view&id=1ADuVjPddGX4O8EocAKqWgVDG9UB0_KgS",
-    "bg": "https://drive.google.com/uc?export=view&id=1ADuVjPddGX4O8EocAKqWgVDG9UB0_KgS",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712802/eternels_lpuuwh.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712865/eternels_no6wuf.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1vHSHCZ7Z9OMPNneuAPsL4wC1QA9o2dYL",
-      "https://drive.google.com/uc?export=view&id=1oMCcATRTNvnHqSnA1AYScyb8NylNjRLb",
-      "https://drive.google.com/uc?export=view&id=1m5nAzXTnfM8PAnkjg61zynZk8P4hDzjn",
-      "https://drive.google.com/uc?export=view&id=1lo8aXIuQpWWFdeEVBpuL9S22KpDAI2AA"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712898/eternels_1_kf3ept.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712898/eternels_2_z4xetw.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712898/eternels_3_ulyj5r.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712898/eternels_4_ibcdni.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/zfhMlsZW7hg",
     "note": "6.3/10"
@@ -1125,7 +1125,7 @@
   {
     "id": "spiderman3",
     "title": "Spider-Man : No Way Home",
-    "logo": "https://drive.google.com/uc?export=view&id=1YknOLaoH6bwnfmbnWXnntngpABVxwnby",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712875/spiderman3_n8zat2.png",
     "saga": "Marvel",
     "duration": "2h36",
     "release": "2021-12-15",
@@ -1134,13 +1134,13 @@
     "director": "Jon Watts",
     "actors": "Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon",
     "synopsis": "Après les événements liés à l'affrontement avec Mysterio, l'identité secrète de Spider-Man a été révélée. Il est poursuivi par le gouvernement américain, qui l'accuse du meurtre de Mysterio, et traqué par les médias. Cet événement a également des conséquences terribles sur la vie de sa petite-amie M.J. et de son meilleur ami Ned. Désemparé, Peter Parker demande alors de l'aide au docteur Strange. Ce dernier lance un sort pour que tout le monde oublie que Peter est Spider-Man. Mais les choses ne se passent pas comme prévu, et cette action altère la stabilité de l'espace-temps. Cela ouvre le « multivers », un concept terrifiant dont ils ne savent quasiment rien...",
-    "image": "https://drive.google.com/uc?export=view&id=1rQsiHiuqdKNaot7loXzErYp6uForVNNA",
-    "bg": "https://drive.google.com/uc?export=view&id=1rQsiHiuqdKNaot7loXzErYp6uForVNNA",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712812/spiderman3_uyy8bf.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712867/spiderman3_xip7ex.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1LtcxBVsKvXt87-jGd_qORJVzJvNiX4pW",
-      "https://drive.google.com/uc?export=view&id=1kOJ9ca7og90FAHOKVFkLnoWqMrytm6RA",
-      "https://drive.google.com/uc?export=view&id=1slsDXyj5S-nmpKIC-hkxk8QKeeorOeKb",
-      "https://drive.google.com/uc?export=view&id=135EsIOliU9wCxDLPaj-PKwd9_hFlO2jR"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712931/spiderman3_1_p2gyu3.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712931/spiderman3_2_jcvjo2.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712930/spiderman3_3_jodrgp.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712930/spiderman3_4_s8hosh.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/2ax61PjJgjw",
     "note": "8.2/10"
@@ -1148,7 +1148,7 @@
   {
     "id": "dstrange2",
     "title": "Doctor Strange in the Multiverse of Madness",
-    "logo": "https://drive.google.com/uc?export=view&id=1gRMjmGh7Mwt1kgjmSI7iuJYsEF3yuGSX",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712869/dstrange2_dr9y5h.png",
     "saga": "Marvel",
     "duration": "2h06",
     "release": "2022-05-06",
@@ -1157,13 +1157,13 @@
     "director": "Sam Raimi",
     "actors": "Benedict Cumberbatch, Xochiti Gomez, Elizabeth Olsen, Chiwetel Ejiofor",
     "synopsis": "Le Docteur Strange lance un sort interdit qui ouvre le portail du Multivers, incluant des versions alternatives de lui-même. Cette menace à l'humanité est plus puissante que les pouvoirs combinés de Strange, Wong et Wanda Maximoff.",
-    "image": "https://drive.google.com/uc?export=view&id=1avke6sv49gC-RvRjdCUxuWwSPHbl0z0U",
-    "bg": "https://drive.google.com/uc?export=view&id=1avke6sv49gC-RvRjdCUxuWwSPHbl0z0U",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712802/dstrange2_d1vcmw.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712866/dstrange2_bzfpje.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1H4x1T5kQR22682fg0Ub9m2bn-iP5x6W4",
-      "https://drive.google.com/uc?export=view&id=1bCQcjnLZ110Qye0zvO3NBU5iAySHc9pc",
-      "https://drive.google.com/uc?export=view&id=1csndzHh6D-wqH1q-lwZX4889OQSEZxwZ",
-      "https://drive.google.com/uc?export=view&id=1QbtZCoQBTjRRmRM_WZQciyPDhaF_c5W7"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712895/dstrange2_1_x8pakr.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712895/dstrange2_2_uyojta.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712895/dstrange2_3_p6wxqq.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712895/dstrange2_4_ukmvv5.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/KtNV22LOT84",
     "note": "6.9/10"
@@ -1171,7 +1171,7 @@
   {
     "id": "thor4",
     "title": "Thor : Love and Thunder",
-    "logo": "https://drive.google.com/uc?export=view&id=1D3yTWQE0a7MJLiJZV1wcj8CAtgD3nVTl",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712879/thor4_qp56qu.png",
     "saga": "Marvel",
     "duration": "2h06",
     "release": "2022-07-13",
@@ -1180,13 +1180,13 @@
     "director": "Taika Waititi",
     "actors": "Chris Hemsworth, Natalie Portman, Christian Bale, Tessa Thompson",
     "synopsis": "Alors que Thor est en pleine introspection et en quête de sérénité, sa retraite est interrompue par un tueur galactique connu sous le nom de Gorr, qui s’est donné pour mission d’exterminer tous les dieux. Pour affronter cette menace, Thor demande l’aide de Valkyrie, de Korg et de son ex-petite amie Jane Foster, qui, à sa grande surprise, manie inexplicablement son puissant marteau, le Mjolnir. Ensemble, ils se lancent dans une dangereuse aventure cosmique pour comprendre les motivations qui poussent Gorr à la vengeance et l’arrêter avant qu’il ne soit trop tard.",
-    "image": "https://drive.google.com/uc?export=view&id=1QD0LiVzZS7NitavzmJerwJGmZp6FxA1G",
-    "bg": "https://drive.google.com/uc?export=view&id=1QD0LiVzZS7NitavzmJerwJGmZp6FxA1G",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712817/thor4_ruhihe.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712864/thor4_cj7pco.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=149FkHPi9UprtHG58sd8yC-DHam1zZwO0",
-      "https://drive.google.com/uc?export=view&id=1WViIAmJVbWoH6otlL4zViYfIezORpblL",
-      "https://drive.google.com/uc?export=view&id=1dqke4oEPlQm4lzctIdkFzH894Nne0on_",
-      "https://drive.google.com/uc?export=view&id=1WW9ZJZAd9O1j3OvvS5y9hdEgP3Hpdyey"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712942/thor4_1_w3stcp.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712943/thor4_2_mbsc96.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712943/thor4_3_p9xhfm.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712943/thor4_4_ornnqh.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/wyxbc_wQjaI",
     "note": "6.2/10"
@@ -1194,7 +1194,7 @@
   {
     "id": "bpanther2",
     "title": "Black Panther : Wakanda Forever",
-    "logo": "https://drive.google.com/uc?export=view&id=1SZYf_Yy2vAiOU2QDPLNZMX3zgc5IyMBE",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712858/bpanther2_sra3bg.png",
     "saga": "Marvel",
     "duration": "2h06",
     "release": "2022-11-09",
@@ -1203,13 +1203,13 @@
     "director": "Ryan Coogler",
     "actors": "Letitia Wright, Tenoch Huerta Mejia, Lupita Nyong'o, Danai Gurira",
     "synopsis": "La Reine Ramonda, Shuri, M’Baku, Okoye et les Dora Milaje luttent pour protéger leur nation des ingérences d’autres puissances mondiales après la mort du roi T’Challa. Alors que le peuple s’efforce d’aller de l’avant, nos héros vont devoir s’unir et compter sur l’aide de la mercenaire Nakia et d’Everett Ross pour faire entrer le royaume du Wakanda dans une nouvelle ère. Mais une terrible menace surgit d’un royaume caché au plus profond des océans : Talokan.",
-    "image": "https://drive.google.com/uc?export=view&id=1u7eGVjXgSSt1sBLee3tjSMoTBZUHsvCt",
-    "bg": "https://drive.google.com/uc?export=view&id=1u7eGVjXgSSt1sBLee3tjSMoTBZUHsvCt",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712801/bpanther2_mhbjv6.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712869/bpanther2_hrwsdn.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=15THrD07I18hZDbZlAqt7XyVcTox9Qb1o",
-      "https://drive.google.com/uc?export=view&id=14NqC7Z3WFWIQnR6tiCo_3Voto1ChpLcw",
-      "https://drive.google.com/uc?export=view&id=1CFOjy0ZNy4es20yNfAcTKJXH-BDX0Hou",
-      "https://drive.google.com/uc?export=view&id=1uX9gMECYn7CqdV1PDk50WuKboHtX1PRP"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712888/bpanther2_1_lobube.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712888/bpanther2_2_smtlcq.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712888/bpanther2_3_syscvk.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712888/bpanther2_4_ccadji.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/EEtcliMsTjU",
     "note": "6.7/10"
@@ -1218,7 +1218,7 @@
     "id": "antman3",
     "last": true,
     "title": "Ant-Man et la Guêpe : Quantumania",
-    "logo": "https://drive.google.com/uc?export=view&id=11PYD78NygdtV6UCr1Xl4OamPH93SCaOI",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712849/antman3_b5eqyl.png",
     "saga": "Marvel",
     "duration": "2h04",
     "release": "2023-02-15",
@@ -1227,13 +1227,13 @@
     "director": "Peyton Reed",
     "actors": "Paul Rudd, Evangeline Lilly, Michael Douglas, Michelle Pfeiffer",
     "synopsis": "Les super-héros Ant-Man et la Guêpe vont vivre de nouvelles aventures. En compagnie de Hank Pym et Janet Van Dyne, le duo va explorer la dimension subatomique, interagir avec d'étranges nouvelles créatures et se lancer dans une odyssée qui les poussera au-delà des limites de ce qu'il pensait être possible.",
-    "image": "https://drive.google.com/uc?export=view&id=1OSXGzmoOBh_3Vm8p6Luh-T79AvPoxd2M",
-    "bg": "https://drive.google.com/uc?export=view&id=1OSXGzmoOBh_3Vm8p6Luh-T79AvPoxd2M",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712800/antman3_xpsvtv.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712867/antman3_t5reyj.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=12l8ttq1GLSPHj3C_LWJk-Nr9DUW8UdA6",
-      "https://drive.google.com/uc?export=view&id=1DAAmu8RbYMuWFKBa7D0aBuGEgAswjLx2",
-      "https://drive.google.com/uc?export=view&id=14lItS0u7RiSKZHGjdvFSYTSjo6qydJUX",
-      "https://drive.google.com/uc?export=view&id=1ZcuL1tKi425QgzOWPfNFhkJm5ReN2u-n"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712881/antman3_1_wvxgik.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712882/antman3_2_dkkxhv.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712882/antman3_3_qqdsqm.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712882/antman3_4_t22jb2.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/v_3iSE7nKbg",
     "video": "./videos/antman3.mp4",
@@ -1243,7 +1243,7 @@
     "id": "gardiensg3",
     "last": true,
     "title": "Les Gardiens de la Galaxie Vol. 3",
-    "logo": "https://drive.google.com/uc?export=view&id=1JCYxS5wFggFjWYCWm7GD_DSoE-Nupq3z",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712864/gardiensg3_yi57nv.png",
     "saga": "Marvel",
     "duration": "2h29",
     "release": "2023-05-03",
@@ -1252,13 +1252,13 @@
     "director": "James Gunn",
     "actors": "Chris Pratt, Zoë Saldaña, Dave Bautista, Vin Diesel (voix)",
     "synopsis": "Les Gardiens de la Galaxie vont devoir combattre à nouveau Ayesha, la prêtresse des Souverains, faire face au créateur de Rocket qui veut le récupérer à tout prix et défier Adam Warlock prêt à tout pour les tuer.",
-    "image": "https://drive.google.com/uc?export=view&id=1T1SUnP-MrLPM5wGPEL693VDesWWN_GPC",
-    "bg": "https://drive.google.com/uc?export=view&id=1T1SUnP-MrLPM5wGPEL693VDesWWN_GPC",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712803/gardiensg3_izumxu.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712866/gardiensg3_xxbztv.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1dxDqtQw6y6cbGGAMvok_86ZDFCrKHoeY",
-      "https://drive.google.com/uc?export=view&id=1VGz81yJAzgg60Bikiqb2RFqBgl4u4b7s",
-      "https://drive.google.com/uc?export=view&id=1B58QkMKErpTHAxiSDHEBHGBuDbE0WNIn",
-      "https://drive.google.com/uc?export=view&id=1h6C2OtAlhp9FXIbaIKXStxp5il8N_U0d"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712900/gardiensg3_1_hd8uw0.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712901/gardiensg3_2_feflqv.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712901/gardiensg3_3_wni1dm.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712901/gardiensg3_4_a7j0f3.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/ABPI2lhLcTo",
     "video": "./videos/gardiensg3.mp4",
@@ -1268,7 +1268,7 @@
     "id": "marvels",
     "last": true,
     "title": "The Marvels",
-    "logo": "https://drive.google.com/uc?export=view&id=1A2ysa5rl59anjOkH-AoNSzFYcRGy_57N",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712873/marvels_gkml24.png",
     "saga": "Marvel",
     "duration": "1h45",
     "release": "2023-11-08",
@@ -1277,13 +1277,13 @@
     "director": "Nia DaCosta",
     "actors": "Brie Larson, Tenoyah Parris, Iman Vellani, Samuel L. Jackson",
     "synopsis": "Carol Danvers a récupéré son identité auprès des Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels.",
-    "image": "https://drive.google.com/uc?export=view&id=1wZ4TrEmWwna4CXC_GzB-889l4ei0sD95",
-    "bg": "https://drive.google.com/uc?export=view&id=1wZ4TrEmWwna4CXC_GzB-889l4ei0sD95",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712849/marvels_iopuuv.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712872/marvels_f7mql5.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=19OzoCeAifPQP01YUYSy5eM0OX_pT7DYq",
-      "https://drive.google.com/uc?export=view&id=1iBC3Vuu4QM9L1MIBKfSqdtVud9TpKED-",
-      "https://drive.google.com/uc?export=view&id=1DwlMWfdf9mLn162wlswJYezjHkCW0Xlv",
-      "https://drive.google.com/uc?export=view&id=1JCMS3K1glCa9dYt3M5SLe4IqrRxDdL4p"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712925/marvels_1_vlbrjw.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712926/marvels_2_grworl.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712926/marvels_3_buczgh.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712926/marvels_4_x26oay.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/UwF3l1gJDlc",
     "video": "./videos/marvels.mp4",
@@ -1293,7 +1293,7 @@
     "id": "dwolv",
     "last": true,
     "title": "Deadpool et Wolverine",
-    "logo": "https://drive.google.com/uc?export=view&id=1hiiaj6YzuPVlP_qOoQdyBBSgApSIZmBe",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712856/dwolv_eslmsq.png",
     "saga": "Marvel",
     "duration": "2h08",
     "release": "2024-07-24",
@@ -1302,13 +1302,13 @@
     "director": "Shawn Levy",
     "actors": "Ryan Reynolds, Hugh Jackman, Emma Corin, Matthew MacFayden",
     "synopsis": " Après avoir échoué à rejoindre l'équipe des Avengers, Wade Wilson passe d'un petit boulot à un autre sans vraiment trouver sa voie. Jusqu'au jour où un haut gradé du Tribunal des Variations Anachroniques lui propose une mission digne de lui… à condition de voir son monde et tous ceux qu'il aime être anéantis.",
-    "image": "https://drive.google.com/uc?export=view&id=10HXe0zxs-YcOq2xdQ5-E39meSxMRtsd9",
-    "bg": "https://drive.google.com/uc?export=view&id=10HXe0zxs-YcOq2xdQ5-E39meSxMRtsd9",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712802/dwolv_sccyom.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712869/dwolv_fk90m2.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1Bf6kRkUG-M68IxG0uXA1zLR5J_MBBS0U",
-      "https://drive.google.com/uc?export=view&id=1oMo6_osjZ58oKnBhlJPT8gkX2PIZpJNC",
-      "https://drive.google.com/uc?export=view&id=1fBBO0qluF0mRzDoxobLtCO3YJOegpyeP",
-      "https://drive.google.com/uc?export=view&id=1aa3iKzUfTtQGWFwscy8LERoNDsilt2Sp"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712897/dwolv_1_frsg5y.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712897/dwolv_2_fgx9vj.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712897/dwolv_3_dgyfpv.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712897/dwolv_4_zvj1vh.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/JTKsxKbF58M",
     "video": "./videos/dwolv.mp4",
@@ -1317,7 +1317,7 @@
   {
     "id": "jurassicpark",
     "title": "Jurassic Park",
-    "logo": "https://drive.google.com/uc?export=view&id=1AnAhA0WRHfHu2gcV1R4F4-SB31ICKSAr",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712854/jurassicpark_erycqv.png",
     "saga": "Jurassic Park",
     "duration": "2h06",
     "release": "1993-10-20",
@@ -1326,13 +1326,13 @@
     "director": "Steven Spielberg",
     "actors": "Sam Neill, Laure Dern, Jeff Goldblum, Richard Attenborough",
     "synopsis": "Généticien de génie, le professeur John Hammond a recréé de nombreuses espèces de dinosaures à partir d'une goutte de sang prélevée sur un moustique fossilisé. Démiurge naïf et généreux, dépassé par ses propres ambitions, il projette d’ouvrir un gigantesque et terrifiant parc d'attractions. Mais la pureté de son rêve se heurte à la cupidité des hommes et, plus grave, à la violence latente, indomptable de la Nature.",
-    "image": "https://drive.google.com/uc?export=view&id=1eFD-cKL-cgebT-h7sKua0Egjz0g8ey3g",
-    "bg": "https://drive.google.com/uc?export=view&id=1eFD-cKL-cgebT-h7sKua0Egjz0g8ey3g",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712860/jurassicpark_dgoard.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712862/jurassicpark_m8sv0d.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1duW0JCDf28WQ3-t1ezQ_gUXVsdSRU_P1",
-      "https://drive.google.com/uc?export=view&id=1_gsq_DUubpr-qOU3uXLaRnW_mqoPzsZZ",
-      "https://drive.google.com/uc?export=view&id=1ZFytFKz_vfNYGZnK4cDMwW2Ow7LHWUos",
-      "https://drive.google.com/uc?export=view&id=1Aul4r-WTy8HOwcxrEbCWPt0TPB-bfXma"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712919/jurassicpark_1_g4od3h.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712919/jurassicpark_2_u5vzcy.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712919/jurassicpark_3_cgmgsk.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712920/jurassicpark_4_y5nhmx.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/4wBNcrnsFz0",
     "note": "8.2/10"
@@ -1340,7 +1340,7 @@
   {
     "id": "jurassicpark2",
     "title": "Le Monde Perdu : Jurassic Park",
-    "logo": "https://drive.google.com/uc?export=view&id=1An2soksbEZ75vmUqqrV9EzAAAhOU5Erc",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712855/jurassicpark2_znhpc5.png",
     "saga": "Jurassic Park",
     "duration": "2h08",
     "release": "1997-10-22",
@@ -1349,13 +1349,13 @@
     "director": "Steven Spielberg",
     "actors": "Jeff Goldblum, Julianne Moore, Vince Vaughn, Arliss Howard",
     "synopsis": "Quatre ans après le terrible fiasco de son Jurassic Park, le milliardaire John Hammond rappelle le Dr Ian Malcolm pour l'informer de son nouveau projet. Sur une île déserte, voisine du parc, vivent en liberté des centaines de dinosaures de toutes tailles et de toutes espèces. Ce sont des descendants des animaux clonés en laboratoire. D'abord réticent, Ian se décide à rejoindre le docteur quand il apprend que sa fiancée fait partie de l'expédition scientifique. Il ignore qu'une autre expédition qui n'a pas les mêmes buts est également en route.",
-    "image": "https://drive.google.com/uc?export=view&id=19Uv9V0wlKQp22Vb1alrm914KH7fylNEp",
-    "bg": "https://drive.google.com/uc?export=view&id=19Uv9V0wlKQp22Vb1alrm914KH7fylNEp",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712807/jurassicpark2_iaamnv.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712860/jurassicpark2_cvzi92.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1r2XtazLXSi_l9HthljS2dcdOQNNv7pwP",
-      "https://drive.google.com/uc?export=view&id=1ip9NSejdE541az2Z7L-ElZx0TvBKXGCh",
-      "https://drive.google.com/uc?export=view&id=1kqxXcHxzyo2OoikcjOf1i0pjsK1W8lEu",
-      "https://drive.google.com/uc?export=view&id=1zFqsIAhn7kqKNAsJ4p7y99ykXdS6lP6z"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712915/jurassicpark2_1_qk2dka.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712914/jurassicpark2_2_xv24dl.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712915/jurassicpark2_3_wacgyi.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712915/jurassicpark2_4_ux0uzm.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/2hIxnL23U4Q",
     "note": "6.6/10"
@@ -1363,7 +1363,7 @@
   {
     "id": "jurassicpark3",
     "title": "Jurassic Park III",
-    "logo": "https://drive.google.com/uc?export=view&id=1abywDP2svBrYz9lVt2Jrbq2kPUU8_rpv",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712859/jurassicpark3_dd9koy.png",
     "saga": "Jurassic Park",
     "duration": "1h32",
     "release": "2001-08-08",
@@ -1372,13 +1372,13 @@
     "director": "Joe Johnston",
     "actors": "Sam Neill, William H. Macy, Téa Leoni, Alessandro Nivola",
     "synopsis": "Huit ans après la débâcle d'Ingen, le célèbre paléontologue Alan Grant peine à trouver les fonds nécessaires pour financer ses recherches sur les dinosaures. Paul Kirby et sa femme Amanda, se disent prêts à financer ses travaux à condition qu'il les accompagne dans leur tournée aérienne au-dessus du nouveau site d'Ingen : Isla Sorna. Grant flaire l'entourloupe lorsque l'avion amorce sa descente sur l'île. C'est au cours d'un accident avec une créature géante qu'il réalise alors que les Kirby sont en fait ici pour retrouver leur fils de 14 ans, Eric disparu depuis quelques jours dans cette jungle peuplée de dinosaures.",
-    "image": "https://drive.google.com/uc?export=view&id=14WR_FYjRi6mEcVNSbKe3A4pBXlrYmznq",
-    "bg": "https://drive.google.com/uc?export=view&id=14WR_FYjRi6mEcVNSbKe3A4pBXlrYmznq",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712808/jurassicpark3_l8ia4d.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712870/jurassicpark3_tjarvw.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=16jfmDAVRkeNnrC9o_MKY_eNxo7csC1Km",
-      "https://drive.google.com/uc?export=view&id=1hHEuP68bogJ3cZ1rjiGNw37zV7Jmwppo",
-      "https://drive.google.com/uc?export=view&id=1arPdvo25kAhJnN2WEXBwvAzbK6KXIR9b",
-      "https://drive.google.com/uc?export=view&id=1vq-wUHDu3sHrB2WHf0F229lvGnKkEjOB"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712915/jurassicpark3_1_o8olpa.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712916/jurassicpark3_2_wqm2vn.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712916/jurassicpark3_3_m8hong.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712950/jurassicpark3_4_fhyarj.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/FxOfakcWAeE",
     "note": "5.9/10"
@@ -1386,7 +1386,7 @@
   {
     "id": "jurassicpark4",
     "title": "Jurassic World",
-    "logo": "https://drive.google.com/uc?export=view&id=13rjg6FXHDpV2rx2TLpb6YBolEWzuTQyB",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712854/jurassicpark4_aiolgw.png",
     "saga": "Jurassic Park",
     "duration": "2h05",
     "release": "2015-06-10",
@@ -1395,13 +1395,13 @@
     "director": "Colin Trevorrow",
     "actors": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent d'Onofrio",
     "synopsis": "Après le décès de son fondateur John Hammond, la société de biotechnologie InGen a été rachetée par Simon Masrani, PDG de la Masrani Global Corporation. Deux décennies après les événements tragiques de 1993, un nouveau parc a ouvert ses portes sur Isla Nublar, au large du Costa Rica. C’est plus de vingt mille visiteurs qui débarquent chaque jour à « Jurassic World », le « plus grand parc à thèmes jamais construit dans l’histoire humaine » pour profiter pleinement du cadre idyllique de l’île et de ses attractions. Les scientifiques de la réserve biologique, sous la direction du Dr Henry Wu, étudient le comportement des animaux, des dinosaures vivants recréés à partir de leur ADN fossilisé dans de l'ambre. Mais alors que tout le monde croyait les leçons du passé assimilées, un nouvel incident éclate…",
-    "image": "https://drive.google.com/uc?export=view&id=1LZdsO7_cNJuozUuH3eABvVAu974yPt76",
-    "bg": "https://drive.google.com/uc?export=view&id=1LZdsO7_cNJuozUuH3eABvVAu974yPt76",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712809/jurassicpark4_afoynw.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712869/jurassicpark4_swkg6p.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=18ambSnSP0nPH6gXr5o9vsyJFB4MFf59i",
-      "https://drive.google.com/uc?export=view&id=16xy9FJV_jKlCAREsAvzqfkmarg3LbTCP",
-      "https://drive.google.com/uc?export=view&id=1aPvimzCRg5J4saSjD6ByKpDLfjags4hQ",
-      "https://drive.google.com/uc?export=view&id=16zF64D3mjXEoL9OpWLWYJ4XhPJ3Y1h44"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712916/jurassicpark4_1_qxehin.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712916/jurassicpark4_2_vaihua.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712916/jurassicpark4_3_hqzmjb.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712916/jurassicpark4_4_nq4vdc.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/F2IAFROLdHY",
     "note": "6.9/10"
@@ -1409,7 +1409,7 @@
   {
     "id": "jurassicpark5",
     "title": "Jurassic World : Fallen Kingdom",
-    "logo": "https://drive.google.com/uc?export=view&id=1fCPCGUQYkZWoPPHpTudrbCXAEjuNy5ow",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712864/jurassicpark5_lhbwti.png",
     "saga": "Jurassic Park",
     "duration": "2h08",
     "release": "2018-06-06",
@@ -1418,13 +1418,13 @@
     "director": "J. A. Bayona",
     "actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Daniella Pineda",
     "synopsis": "Cela fait maintenant trois ans que les dinosaures se sont échappés de leurs enclos et ont détruit le parc à thème et complexe de luxe Jurassic World. Isla Nublar a été abandonnée par les humains alors que les dinosaures survivants sont livrés à eux-mêmes dans la jungle. Lorsque le volcan inactif de l'île commence à rugir, Owen et Claire s’organisent pour sauver les dinosaures restants de l’extinction.",
-    "image": "https://drive.google.com/uc?export=view&id=1LbY4_y9AdRuOp_ySFZujcVAJehZ0D-6a",
-    "bg": "https://drive.google.com/uc?export=view&id=1LbY4_y9AdRuOp_ySFZujcVAJehZ0D-6a",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712809/jurassicpark5_qfyqww.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712869/jurassicpark5_psaulu.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1cfpxx3pYnAI2t8GDoRTL4g19-gTOWPj0",
-      "https://drive.google.com/uc?export=view&id=1UJNnjsa5dPxvde6Zt9fUnsz1vAdvPCt1",
-      "https://drive.google.com/uc?export=view&id=1M7kOyEWkvqVFgxPESKze7lf4a6JqWQrq",
-      "https://drive.google.com/uc?export=view&id=1xD10pLiGzLx1wxJtJUIqfY9hNFQ4j2PS"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712917/jurassicpark5_1_p0dwjb.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712917/jurassicpark5_2_kfathf.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712917/jurassicpark5_3_she28d.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712917/jurassicpark5_4_qfdcry.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/C4WBNqV407Q",
     "note": "6.1/10"
@@ -1432,7 +1432,7 @@
   {
     "id": "jurassicpark6",
     "title": "Jurassic World : le Monde d'après",
-    "logo": "https://drive.google.com/uc?export=view&id=1ye1JGLTpp3GHWMSjsRjIm8ECFSgTkJcW",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712864/jurassicpark6_buc3fa.png",
     "saga": "Jurassic Park",
     "duration": "2h26",
     "release": "2022-06-08",
@@ -1441,13 +1441,13 @@
     "director": "Colin Trevorrow",
     "actors": "Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill",
     "synopsis": "Quatre ans après la destruction de Isla Nublar, les dinosaures font désormais partie du quotidien de l’humanité. Maintenant qu’elle doit partager son espace vital avec les créatures les plus féroces que l’histoire ait jamais connues, un fragile équilibre va remettre en question sa domination.",
-    "image": "https://drive.google.com/uc?export=view&id=1PsNlQpnkej1wZTEX9QFVNM8WLEZ1rvr-",
-    "bg": "https://drive.google.com/uc?export=view&id=1PsNlQpnkej1wZTEX9QFVNM8WLEZ1rvr-",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712809/jurassicpark6_rsiegw.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712867/jurassicpark6_cdr1a5.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1O0y6O0Cr5hQVbgjdFImyCIjLJDYd3Q9C",
-      "https://drive.google.com/uc?export=view&id=1oHI-a3CeVxiyEnwipYXonxMVomAbxbZv",
-      "https://drive.google.com/uc?export=view&id=1miBvDIl_DeLqrW2NzyT1QdqZXM26ItwI",
-      "https://drive.google.com/uc?export=view&id=1CcAOvqYTiCXOwWy0xUWFIc7oOaybUCbi"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712918/jurassicpark6_1_gx5bhu.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712918/jurassicpark6_2_b9dh1z.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712918/jurassicpark6_3_mpmstm.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712919/jurassicpark6_4_k4se3v.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/x0Gf4OkxeDs",
     "note": "5.6/10"
@@ -1455,7 +1455,7 @@
   {
     "id": "lordring1",
     "title": "Le Seigneur des Anneaux : la Communauté de l'Anneau",
-    "logo": "https://drive.google.com/uc?export=view&id=19MXITa4-s6T9kvQHbBpz_pzGagbNbygn",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712862/lordring1_xbjgan.png",
     "saga": "Tolkien",
     "duration": "2h59",
     "release": "2001-12-19",
@@ -1464,13 +1464,13 @@
     "director": "Peter Jackson",
     "actors": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin",
     "synopsis": "Le jeune hobbit Frodon Sacquet hérite d'un anneau. Il s'agit de l'Anneau Unique, instrument de pouvoir absolu qui permettrait à Sauron, de régner sur la Terre du Milieu et de réduire en esclavage ses peuples… À moins que Frodon et ses fidèles compagnons ne parviennent à emporter l'Anneau jusqu'en Mordor, lieu où il a été forgé, et à le détruire pour toujours…",
-    "image": "https://drive.google.com/uc?export=view&id=1280NclPAOSL0HO5kVI99xo11fMH8_IWp",
-    "bg": "https://drive.google.com/uc?export=view&id=1280NclPAOSL0HO5kVI99xo11fMH8_IWp",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712809/lordring1_iguyo4.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712862/lordring1_q89cby.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1UQiB3Bzm6Ys1Uz6Q_-Qf0eQ2Y7mSfUKR",
-      "https://drive.google.com/uc?export=view&id=1V1qklfuAJ2U3gzozZmJfHwIaO3pMIBac",
-      "https://drive.google.com/uc?export=view&id=1Mcex5llkr5J7Ju6yvwGWOv6z9kOeNcmR",
-      "https://drive.google.com/uc?export=view&id=1zDgAvQP5d8xeucfWqFOuAs62xJ9xHhtP"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712920/lordring1_1_ri5us0.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712920/lordring1_2_zzqeub.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712920/lordring1_3_cxkvkp.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712921/lordring1_4_h4za60.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/KCYr5PpGOvk",
     "note": "8.9/10"
@@ -1478,7 +1478,7 @@
   {
     "id": "lordring2",
     "title": "Le Seigneur des Anneaux : les Deux Tours",
-    "logo": "https://drive.google.com/uc?export=view&id=1nbT5Al6q7aYjI0GmqzFQfHmO_l8eOPnV",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712871/lordring2_hcmkla.png",
     "saga": "Tolkien",
     "duration": "3h00",
     "release": "2002-12-18",
@@ -1487,13 +1487,13 @@
     "director": "Peter Jackson",
     "actors": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin",
     "synopsis": "La Communauté est dissoute, mais la quête pour détruire l'Anneau Unique se poursuit. Accompagné par son fidèle Sam et guidé par l'étrange Gollum, Frodon cherche un moyen d'entrer en Mordor. Alors que l'armée de Saroumane se met en marche, les autres compagnons de la Communauté se préparent à la bataille. La Guerre de l'Anneau a commencé !",
-    "image": "https://drive.google.com/uc?export=view&id=1pclH2e8X2_23tGHmhnJxOJnn6RIxui7q",
-    "bg": "https://drive.google.com/uc?export=view&id=1pclH2e8X2_23tGHmhnJxOJnn6RIxui7q",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712809/lordring2_jlribu.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712869/lordring2_bgbsy2.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1v2w0a0wr7Jz6Wz5Cg93I3lTTowBZ9ryS",
-      "https://drive.google.com/uc?export=view&id=1kNyZwL-xXXHedllgTLKa8ET8S-Vd8UQQ",
-      "https://drive.google.com/uc?export=view&id=19yrf-0odxPCvhBWFMS0UhVSo8nDuh04O",
-      "https://drive.google.com/uc?export=view&id=1hhSK1StQHJKtF04IqnO7H3RYvlTrxLr_"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712921/lordring2_1_i1njeu.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712921/lordring2_2_ejqebk.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712921/lordring2_3_zs0zoi.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712921/lordring2_4_nhbpim.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/gdjIO52RRGA",
     "note": "8.8/10"
@@ -1501,7 +1501,7 @@
   {
     "id": "lordring3",
     "title": "Le Seigneur des Anneaux : le Retour du Roi",
-    "logo": "https://drive.google.com/uc?export=view&id=1ebuVOED_8Mbw5R2Y6oJHsn1Bdb67zXSk",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712871/lordring3_wojzql.png",
     "saga": "Tolkien",
     "duration": "3h21",
     "release": "2003-12-17",
@@ -1510,13 +1510,13 @@
     "director": "Peter Jackson",
     "actors": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin",
     "synopsis": "La bataille pour la Terre du Milieu a commencé. Frodon et Sam, guidés par Gollum, poursuivent leur mission à travers les terres du Mordor pour détruire l'Anneau Unique. Tandis que le pouvoir de Sauron grandit, Aragorn, l'héritier du trône du Gondor, rassemble l'armée des Hommes contre les forces du Mal, afin de laisser une chance au porteur de l'Anneau d'accomplir sa quête…",
-    "image": "https://drive.google.com/uc?export=view&id=12sY_1Sb9CgKkOmmxRYJHfVZAtUCWHjVk",
-    "bg": "https://drive.google.com/uc?export=view&id=12sY_1Sb9CgKkOmmxRYJHfVZAtUCWHjVk",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712809/lordring3_f0ynjw.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712866/lordring3_e1s3wu.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1u9VhL-hC3GT-RZ1jBAAd6QSIpXLl1Xxu",
-      "https://drive.google.com/uc?export=view&id=1WFiIhbr9GB0aHmu2T-K1_rBSfg6tC06w",
-      "https://drive.google.com/uc?export=view&id=14Pm3Ac1cXeoUlwI76xODriFXuRGD8HXx",
-      "https://drive.google.com/uc?export=view&id=1LjWX9jxulBnSaYekM2i_VOwyR5RiZ6nB"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712921/lordring3_1_mx1rwy.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712922/lordring3_2_jpb4bf.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712922/lordring3_3_gvd9nb.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712922/lordring3_4_fvaeli.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/KYJCe_PLVaE",
     "note": "9.0/10"
@@ -1524,7 +1524,7 @@
   {
     "id": "lordring4",
     "title": "Le Hobbit : un Voyage Innatendu",
-    "logo": "https://drive.google.com/uc?export=view&id=1Ff925bfCr1vE1c50uVvhqojwbAnL1Obs",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712872/lordring4_pxfqgk.png",
     "saga": "Tolkien",
     "duration": "2h49",
     "release": "2012-12-12",
@@ -1533,13 +1533,13 @@
     "director": "Peter Jackson",
     "actors": "Martin Freeman, Ian McKellen, Richard Armitage, James Nesbitt",
     "synopsis": "Dans un voyage inattendu, Bilbon Sacquet cherche à reprendre le Royaume perdu des Nains d'Erebor, conquis par le redoutable dragon Smaug. Alors qu'il croise par hasard la route du magicien Gandalf le Gris, Bilbon rejoint une bande de 13 nains dont le chef n'est autre que le légendaire guerrier Thorin Écu-de-Chêne. Leur périple les conduit au cœur du Pays Sauvage, où ils devront affronter des Gobelins, des Orques, des Ouargues meurtriers, des Araignées géantes, des Métamorphes et des Sorciers… Bien qu'ils se destinent à mettre le cap sur l'Est et les terres désertiques du Mont Solitaire, ils doivent d'abord échapper aux tunnels des Gobelins, où Bilbon rencontre la créature qui changera à jamais le cours de sa vie : Gollum.",
-    "image": "https://drive.google.com/uc?export=view&id=1OtoXpgBm2ARTu8ySQzMJip7DFzk4PZz6",
-    "bg": "https://drive.google.com/uc?export=view&id=1OtoXpgBm2ARTu8ySQzMJip7DFzk4PZz6",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712809/lordring4_stp10q.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712860/lordring4_mixypn.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1Ze02wkZ-giHJhIaonLQjXdJUfEmKHJdQ",
-      "https://drive.google.com/uc?export=view&id=1kOEjWanqdzHeLy1XwO4OqTc4Svg-zbUz",
-      "https://drive.google.com/uc?export=view&id=1c-kkRizLzsI6FHBEpEJ-PpaThbKqIswn",
-      "https://drive.google.com/uc?export=view&id=1iN0ABYIDRXO0iSFghUZ9Q8v0fy7U6I2j"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712922/lordring4_1_lmqtln.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712950/lordring4_2_qxcq9m.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712922/lordring4_3_ebo8b9.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712924/lordring4_4_hgwmmw.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/tiy7peMH3g8",
     "note": "7.8/10"
@@ -1547,7 +1547,7 @@
   {
     "id": "lordring5",
     "title": "Le Hobbit : la Désolation de Smaug",
-    "logo": "https://drive.google.com/uc?export=view&id=1PAZXV3zmL1kP5PUGZ_I9xASw1lRx-kyJ",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712872/lordring5_b54bfa.png",
     "saga": "Tolkien",
     "duration": "2h41",
     "release": "2013-12-11",
@@ -1556,13 +1556,13 @@
     "director": "Peter Jackson",
     "actors": "Martin Freeman, Ian McKellen, Richard Armitage, Evangeline Lilly",
     "synopsis": "Bilbon Sacquet est entraîné dans une quête épique pour reconquérir le Royaume perdu des Nains d'Erebor et l'arracher aux griffes de l'effroyable dragon Smaug. Accompagné de 13 Nains et du Magicien Gandalf le Gris, Bilbon s'introduit dans la Montagne Solitaire armé du 'précieux' anneau de Gollum et de Dard, sa lame affûtée.",
-    "image": "https://drive.google.com/uc?export=view&id=16XBCYK4tKdAjmLOH7TWbfaVBrr0fFsM0",
-    "bg": "https://drive.google.com/uc?export=view&id=16XBCYK4tKdAjmLOH7TWbfaVBrr0fFsM0",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712810/lordring5_uqbati.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712862/lordring5_tb5dsp.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1ezbJmqVHfsW9xB8EaSHQzVNEUvW2kXd7",
-      "https://drive.google.com/uc?export=view&id=1KSf8ZG7BMUcpl2rVyKCir000dJjppwmm",
-      "https://drive.google.com/uc?export=view&id=1NglN0UM1--R8uQoz0El-0_HgD5nEr3D9",
-      "https://drive.google.com/uc?export=view&id=1IE6x0RJWVy3pMNZ-HqBn0NPYb7A6kwPM"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712924/lordring5_1_yrku4j.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712924/lordring5_2_jmnbab.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712924/lordring5_3_fnn7ak.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712924/lordring5_4_dfhcwj.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/bvKLagxYhrc",
     "note": "7.8/10"
@@ -1570,7 +1570,7 @@
   {
     "id": "lordring6",
     "title": "Le Hobbit : la Bataille des Cinq Armées",
-    "logo": "https://drive.google.com/uc?export=view&id=145HrKN87gO6BOi8WNei0_f37rGvA5Qt2",
+    "logo": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712872/lordring6_vidw5f.png",
     "saga": "Tolkien",
     "duration": "2h24",
     "release": "2014-12-10",
@@ -1579,13 +1579,13 @@
     "director": "Peter Jackson",
     "actors": "Martin Freeman, Ian McKellen, Richard Armitage, Evangeline Lilly",
     "synopsis": "Atteignant enfin la Montagne Solitaire, Thorin et les Nains, aidés par Bilbon le Hobbit, ont réussi à récupérer leur royaume et leur trésor. Ils ont également réveillé le dragon Smaug qui déchaîne désormais sa colère sur les habitants de Lac-ville. À présent, les Nains, les Elfes, les Humains mais aussi les Wrags et les Orques menés par le Nécromancien, convoitent les richesses de la Montagne Solitaire.",
-    "image": "https://drive.google.com/uc?export=view&id=1jnAWNtAP70D9Lryhd0DzGNRut-DTJc71",
-    "bg": "https://drive.google.com/uc?export=view&id=1jnAWNtAP70D9Lryhd0DzGNRut-DTJc71",
+    "image": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712810/lordring6_qdvlah.jpg",
+    "bg": "https://res.cloudinary.com/den4g11ho/image/upload/v1739712864/lordring6_yrssmp.jpg",
     "photos": [
-      "https://drive.google.com/uc?export=view&id=1DPLO9nQFIL1pXgjiftrc4DTtWx0ivya5",
-      "https://drive.google.com/uc?export=view&id=1i-JfNzZh3m6GbO1MLYiL5s00TJo3kUQd",
-      "https://drive.google.com/uc?export=view&id=1JMAOQvzl6XmaUdX_E5mUPLy1FMzBOfjx",
-      "https://drive.google.com/uc?export=view&id=1YsmadVw8jbup1Xy_gtRczD-DxKdFJ-hP"
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712924/lordring6_1_fkgksb.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712924/lordring6_2_as1mbf.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712924/lordring6_3_jbzmah.jpg",
+      "https://res.cloudinary.com/den4g11ho/image/upload/v1739712924/lordring6_4_rhqkbh.jpg"
     ],
     "trailer": "https://www.youtube.com/embed/UeJRHbC_BGA",
     "note": "7.4/10"
