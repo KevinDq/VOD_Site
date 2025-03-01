@@ -567,7 +567,7 @@ main
         /* section de film   */
         #starwars
         {
-            background: url(./img/bg/starwarsSection.jpg);
+            background: url('https://res.cloudinary.com/den4g11ho/image/upload/v1739712847/starwarsSection_q38rmy.jpg');
             background-size: cover;   
             .section-title
             {                
@@ -582,12 +582,12 @@ main
         }
         #harrypotter
         {
-            background: url(./img/bg/harrypotterSecction.jpg);
+            background: url('https://res.cloudinary.com/den4g11ho/image/upload/v1739712864/harrypotterSecction_bqczwc.jpg');
             background-size: cover;
         }
         #marvel
         {
-            background: url(./img/bg/marvelSection.jpg);
+            background: url('https://res.cloudinary.com/den4g11ho/image/upload/v1739712862/marvelSection_pf8yp9.jpg');
             background-size: cover;
             .section-title
             {                
