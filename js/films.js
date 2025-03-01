@@ -20,11 +20,11 @@ function createFilmSection(id, logo, bg1, bg2, side1, side2) {
     `;
     document.getElementById('main-content').appendChild(section);
 }
-createFilmSection('starwars', './img/logos/StarWarsctg2.png', './img/sections/starwars_bg_1.jpg', './img/sections/starwars_bg_2.jpg','./img/sections/starwarside1.jpg','./img/sections/starwarside2.jpg' );
-createFilmSection('harrypotter', './img/logos/HarryPotterSection.png', './img/sections/hp_bg_1.jpg', './img/sections/hp_bg_2.jpg', './img/sections/harrypotterside1.jpg','./img/sections/harrypotterside2.jpg');
-createFilmSection('marvel','./img/logos/MCU.png', './img/sections/mcu_bg_1.jpg', './img/sections/mcu_bg_2.jpg', './img/sections/mcuside1.jpg','./img/sections/mcuside2.jpg' );
-createFilmSection('jurassicpark','./img/logos/jurassicpark-section.png', './img/sections/jurassicpark_bg_1.jpg', './img/sections/jurassicpark_bg_2.jpg', './img/sections/jurassicpark_side1.jpg','./img/sections/jurassicpark_side2.jpg' );
-createFilmSection('lordofrings','./img/logos/lordofrings-section.png', './img/sections/lordofrings_bg_1.jpg', './img/sections/lordofrings_bg_2.jpg', './img/sections/lordofrings_side1.jpg','./img/sections/lordofrings_side2.jpg' );
+createFilmSection('starwars', 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712877/starwarsctg2_c2xp6g.png', './img/sections/starwars_bg_1.jpg', './img/sections/starwars_bg_2.jpg','./img/sections/starwarside1.jpg','./img/sections/starwarside2.jpg' );
+createFilmSection('harrypotter', 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712856/HarryPotterSection_hjdfiv.png', './img/sections/hp_bg_1.jpg', './img/sections/hp_bg_2.jpg', './img/sections/harrypotterside1.jpg','./img/sections/harrypotterside2.jpg');
+createFilmSection('marvel','https://res.cloudinary.com/den4g11ho/image/upload/v1739712874/MCU_g7bxou.png', './img/sections/mcu_bg_1.jpg', './img/sections/mcu_bg_2.jpg', './img/sections/mcuside1.jpg','./img/sections/mcuside2.jpg' );
+createFilmSection('jurassicpark','https://res.cloudinary.com/den4g11ho/image/upload/v1739712854/jurassicpark-section_gh3mkr.png', './img/sections/jurassicpark_bg_1.jpg', './img/sections/jurassicpark_bg_2.jpg', './img/sections/jurassicpark_side1.jpg','./img/sections/jurassicpark_side2.jpg' );
+createFilmSection('lordofrings','https://res.cloudinary.com/den4g11ho/image/upload/v1739712855/lordofrings-section_h0fell.png', './img/sections/lordofrings_bg_1.jpg', './img/sections/lordofrings_bg_2.jpg', './img/sections/lordofrings_side1.jpg','./img/sections/lordofrings_side2.jpg' );
 
 fetch('./js/movies.json')
    .then(response => response.json())
