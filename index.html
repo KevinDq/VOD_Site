@@ -10,7 +10,7 @@
 <body>
     <article id="launch-page" class="launch">        
         <article class="launch-text">            
-            <img src="./img/Nitflex_logo_transparent.png">
+            <img src="./img//Nitflex_logo_transparent.png">
             <h1>Des milliers de films et séries en illimité.</h1>
             <article class="discover">
                 <article class="discover-slide">
@@ -34,7 +34,27 @@
                     <i class="fa fa-users" aria-hidden="true"></i>
                 </article>
             </article>
-            <button id="start">Commencer<i class="fa fa-chevron-right" aria-hidden="true"></i> <i class="fa fa-chevron-right" aria-hidden="true"></i></button>                               
+            <article id="login">
+                <p id="loginInfo"></p>                
+                <button id="start">S'identifier<i class="fa fa-chevron-right" aria-hidden="true"></i> <i class="fa fa-chevron-right" aria-hidden="true"></i></button>  
+                <!-- Modal de connexion -->
+                <article id="loginModal" class="modal">
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+                        <h2>Identification</h2>
+                        <form id="loginForm">
+                            <label for="username">Nom d'utilisateur :</label>
+                            <input type="text" id="username" required>
+                
+                            <label for="password">Mot de passe :</label>
+                            <input type="password" id="password" required>
+                
+                            <button id="submitBtn" type="submit">Se connecter</button>
+                        </form>
+                        <p id="errorMessage" style="color: red; display: none;">Identifiants incorrects</p>
+                    </div>
+                </article>
+            </article>                                         
         </article>
         <article class="disclaimer">
             <h3 id="disclaimer-title"><i class="fa fa-caret-down" aria-hidden="true"></i> Disclaimer <i class="fa fa-caret-down" aria-hidden="true"></i></h3>            
@@ -49,8 +69,8 @@
     </article>
     <header id="header">
         <article id="logo">
-            <img src="./img/Nitflex_logo_transparent.png">
-            <h1>Nitflex</h1>
+            <img src="./img//Nitflex_logo_transparent.png">
+            
         </article>   
         <nav>
             <a href="./films.html">Films</a>
@@ -62,7 +82,11 @@
             <button type="submit"><i class="fa fa-search"></i></button>
         </form>
         <article id="results">          
-        </article>        
+        </article>  
+        <div id="userInfo">
+            <span id="userPseudo"></span>
+            <button id="logoutButton" style="display: none;"><i class="fa fa-sign-out" aria-hidden="true"></i></button>
+        </div>      
         <button id="scrollToTop" onclick="scrollToTop()"><i class="fa fa-arrow-circle-o-up" aria-hidden="true"></i></button>       
     </header>
     <main id="main-content">
