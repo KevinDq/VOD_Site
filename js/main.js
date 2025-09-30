@@ -1,30 +1,53 @@
-// fonction pour cacher la page de lancement au click sur démarrer
-const start = document.getElementById('start')
+document.addEventListener("DOMContentLoaded", () => {    
+    const user = localStorage.getItem("loggedInUser");
+    const splashScreen = document.getElementById("launch-page");
+    const mainContent = document.getElementById("main-content");
+    const userPseudo = document.getElementById("userPseudo");
+    const logoutButton = document.getElementById("logoutButton");    
+    const loginModal = document.getElementById("loginModal");
+    const closeModal = document.querySelector(".close");
+    const errorMessage = document.getElementById("errorMessage");
+    const loginForm = document.getElementById("loginForm");
+    const launchButton = document.getElementById("start");
+    
 
-var launch = document.querySelector('.launch')
-start.addEventListener('click', launchPage)
-
-function launchPage()
-{
-    launch.style.display = 'none';    
-}
-
-//ne pas jouer l'animation à chaque retour
-document.addEventListener('DOMContentLoaded', () => {
-    const welcomeAnimations = document.getElementById('launch-page'); // Animation d'accueil
-
-    // Vérifie si l'animation a déjà été jouée
-    if (sessionStorage.getItem('welcomePlayed') === 'true') {
-        if (welcomeAnimations) {
-            welcomeAnimations.style.display = 'none';            
-        }
-    } else {
-        // Si l'animation n'a pas été jouée, joue-la et enregistre l'état
-        if (welcomeAnimations) {
-            // Lancer l'animation ici, si nécessaire
-            sessionStorage.setItem('welcomePlayed', 'true'); // Marquer l'animation comme jouée
-        }
+    if (user) {
+        splashScreen.style.display = "none";
+        mainContent.style.display = "block";
+        userPseudo.innerHTML = `<i class="fa fa-user-circle" aria-hidden="true"></i> ${user}`;
+        logoutButton.style.display = "block";
     }
+
+    launchButton.addEventListener("click", () => {
+        loginModal.style.display = "block";
+    });
+
+    closeModal.addEventListener("click", () => {
+        loginModal.style.display = "none";
+    });
+
+    loginForm.addEventListener("submit", (e) => {
+        e.preventDefault();
+        const username = document.getElementById("username").value;
+        const password = document.getElementById("password").value;
+        
+        const fakeUser = { username: "admin", password: "1234" };
+        
+        if (username === fakeUser.username && password === fakeUser.password) {
+            localStorage.setItem("loggedInUser", username);
+            splashScreen.style.display = "none";
+            mainContent.style.display = "block";
+            userPseudo.textContent = `Bienvenue, ${username}`;
+            logoutButton.style.display = "block";
+            loginModal.style.display = "none";
+        } else {
+            errorMessage.style.display = "block";
+        }
+    });   
+    logoutButton.addEventListener("click", () => {
+        localStorage.removeItem("loggedInUser");
+        window.location.reload();
+    });
 });
 //
 //Bouton retour vers le haut
@@ -155,9 +178,9 @@ function createFilmSection(id, title, logoSrc) {
     `;
     document.getElementById('movies-list').appendChild(section);
 }
-createFilmSection('starwars', 'Films et séries récents', 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712877/starwarsctg_k4ydwz.png');
-createFilmSection('harrypotter','', 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712856/HarryPotterSection_hjdfiv.png');
-createFilmSection('marvel',"Derniers films", 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712874/MarvelSection_gcqpoe.png');
+createFilmSection('starwars', 'Films et séries récents', './img/logos/StarWarsctg.png');
+createFilmSection('harrypotter','', './img/logos/HarryPotterSection.png');
+createFilmSection('marvel',"Derniers films", './img/logos/MarvelSection.png');
 
 //
 //Créer les catégories
@@ -171,9 +194,9 @@ function createCategory(id, logo) {
     `;
     document.getElementById('categories').appendChild(ctglink);    
 }
-createCategory('starwars', 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712877/starwarsctg_k4ydwz.png');
-createCategory('harrypotter', 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712856/HarryPotterSection_hjdfiv.png');
-createCategory('marvel', 'https://res.cloudinary.com/den4g11ho/image/upload/v1739712874/MarvelSection_gcqpoe.png');
+createCategory('starwars', './img/logos/StarWarsctg.png');
+createCategory('harrypotter', './img/logos/HarryPotterSection.png');
+createCategory('marvel', './img/logos/MarvelSection.png');
 //
 //Créer les fiches de films
 //
